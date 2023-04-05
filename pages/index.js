@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Dlight's PC Store</title>
+        <title>Dlights PC Store</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://app.snipcart.com" />
@@ -21,7 +21,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          justDlight's Computer Store!
+          justDlights Computer Store!
         </h1>
 
         <p className={styles.description}>
