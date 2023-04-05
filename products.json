@@ -1,16 +1,23 @@
 [
     {
-        "title": "Snipcart Logo Sticker",
-        "id": "sticker_logo",
-        "description": "Show off your Snipcart support with a logo sticker!",
-        "price": "2.00",
-        "image": "/images/sticker-single.jpg"
+        "title": "Samsung Odyssey G8 UWQHD 175Hz FreeSync OLED Curved 34in Monitor",
+        "id": "monitor_samsung_uwqhd",
+        "description": "The Samsung Odyssey G8 UWQHD 175Hz FreeSync OLED Curved monitor features a 34inch display with a 3440 x 1440 max resolution.",
+        "price": "1599.00",
+        "image": "/images/Samsung_Monitor.jpg"
       },
       {
-        "title": "Snipcart Logo Sticker Pack",
-        "id": "sticker_logo_pack",
-        "description": "Get a pack of 3 Snipcart logo stickers.",
-        "price": "4.00",
-        "image": "/images/sticker-3pack.jpg"
+        "title": "PCCG Phaser 4080 Gaming PC",
+        "id": "prebuilt_phaser",
+        "description": "Intel Core i9 13900KF CPU cooled by the MSI MAG CORELIQUID C360 AIO Liquid Cooler.",
+        "price": "5699.00",
+        "image": "/images/prebuilt_phaser.jpg"
+      },
+      {
+        "title": "Gigabyte GeForce RTX 4090 Aorus Xtreme Waterforce 24GB",
+        "id": "gpu_4090_Aorus",
+        "description": "The Gigabyte GeForce RTX 4090 Aorus Xtreme Waterforce 24GB graphics card features 24GB GDDR6X 384-bit memory interface.",
+        "price": "3699.00",
+        "image": "/images/4090_Aorus.jpg"
       }
 ]

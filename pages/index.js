@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Dlight's PC Store</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://app.snipcart.com" />
@@ -21,15 +21,12 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-          Snipcart Store
+          justDlight's Computer Store!
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
           <a className="snipcart-checkout snipcart-summary" href="#" style={{textDecoration: "none"}}>
-            <strong>Cart:</strong> <span className="snipcart-total-price">$0.00</span>
+            <strong>Cart:</strong> <img src="https://lightintime.com/img/ecommerce_img/icons8-shopping-cart-64.png"></img><span className="snipcart-total-price">$0.00</span>
           </a>
         </p>
 
