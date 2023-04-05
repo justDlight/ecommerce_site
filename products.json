@@ -19,5 +19,40 @@
         "description": "The Gigabyte GeForce RTX 4090 Aorus Xtreme Waterforce 24GB graphics card features 24GB GDDR6X 384-bit memory interface.",
         "price": "3699.00",
         "image": "/images/4090_Aorus.jpg"
+      },
+      {
+        "title": "Corsair Vengeance RGB 32GB (2x16GB) 6400MHz CL32 DDR5",
+        "id": "ram_corsair",
+        "description": "Corsair Vengeance RGB 32GB (2x16GB) 6400MHz CL32 DDR5 memory delivers DDR5 performance.",
+        "price": "279.00",
+        "image": "/images/corsair_ram.jpg"
+      },
+      {
+        "title": "Team Vulcan Z 2.5inch SATA SSD 1TB",
+        "id": "vulcan_ssd",
+        "description": "The Team Vulcan Z SATA SSD 1TB features a sequential read and write speed of 550/500 MB/s, 800TBW.",
+        "price": "69.00",
+        "image": "/images/vulcan.jpg"
+      },
+      {
+        "title": "PCCG Pulse 3060 Gaming PC",
+        "id": "prebuilt_pulse",
+        "description": "AMD Ryzen 5 3600 CPU with Wraith Spire cooler, ASUS TUF B450M II Pro Gaming Motherboard, ASUS GeForce RTX 3060 Dual OC 8GB graphics card.",
+        "price": "3699.00",
+        "image": "/images/prebuilt_pulse.jpg"
+      },
+      {
+        "title": "AMD Ryzen 9 7900X3D Processor",
+        "id": "amd_cpu_7900X3D",
+        "description": "The AMD Ryzen 9 7900X3D CPU makes gaming more enjoyable than ever thanks to the combination of an incredibly fast processor and AMD 3D V-Cache Technology",
+        "price": "979.00",
+        "image": "/images/amd_ryzen_cpu.jpg"
+      },
+      {
+        "title": "ASUS ROG Falchion RGB Compact Wireless Mech Keyboard Red Switch",
+        "id": "keyboard_Falchion",
+        "description": "The ASUS ROG Falchion RGB Compact Wireless Mech Keyboard Red Switch is a compact 65% layout keyboard in a 60% frame.",
+        "price": "149.00",
+        "image": "/images/keyboard_asus.jpg"
       }
 ]

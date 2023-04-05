@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Dlights PC Store</title>
+        <title>Dlight&apos;s PC Store</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://app.snipcart.com" />
@@ -21,7 +21,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          justDlights Computer Store!
+          justDlight&apos;s Computer Store!
         </h1>
 
         <p className={styles.description}>
@@ -29,6 +29,10 @@ export default function Home() {
             <strong>Cart:</strong> <img src="https://lightintime.com/img/ecommerce_img/icons8-shopping-cart-64.png"></img><span className="snipcart-total-price">$0.00</span>
           </a>
         </p>
+
+        <h1 className={styles.title}>
+          New and Hot!
+        </h1>
 
         <div className={styles.grid}>
           {products.map(product => {
@@ -39,7 +43,7 @@ export default function Home() {
                 <p>{ product.description }</p>
                 <p>${ product.price }</p>
                 <p>
-                  <button className="snipcart-add-item"
+                  <button id="test_id" className="snipcart-add-item"
                     data-item-id={product.id}
                     data-item-image={product.image}
                     data-item-name={product.title}
@@ -55,14 +59,6 @@ export default function Home() {
         </div>
       </main>
       <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
       </footer>
       <script async src="https://cdn.snipcart.com/themes/v3.0.21/default/snipcart.js" />
       <div hidden id="snipcart" data-api-key="YTM0MzEzM2ItOWU3MC00N2YzLWEwYzYtM2E3ZTFiYTVkYmFkNjM4MTU4MjYyOTU0Mzg4NjYw" />
