@@ -26,7 +26,7 @@ export default function Home() {
 
         <p className={styles.description}>
           <a className="snipcart-checkout snipcart-summary" href="#" style={{textDecoration: "none"}}>
-            <strong>Cart:</strong> <span className="snipcart-total-price">$0.00</span>
+            <strong>Cart:</strong> <img src="https://lightintime.com/img/ecommerce_img/icons8-shopping-cart-64.png"></img><span className="snipcart-total-price">$0.00</span>
           </a>
         </p>
 
