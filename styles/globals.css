@@ -106,6 +106,98 @@ a {
   }
 }
 
+.Home_main__nLjiQ {
+  padding: 0rem !important;
+}
+
 img {
   max-width: 100%;
+}
+
+#test {
+  background-color: rgb(77, 75, 80);
+}
+
+#cart-txt {
+  margin-left: 70%;
+}
+
+#nav-link-2 {
+  padding-top: 19%;
+  padding-left: 5%;
+  color: white;
+}
+
+#nav-link-3 {
+  padding-top: 19%;
+  padding-left: 5%;
+  color: white;
+}
+
+#nav-link-4 {
+  padding-top: 19%;
+  padding-left: 5%;
+  margin-right: 20%;
+  color: white;
+}
+
+#header-img {
+  background-image: url("https://lightintime.com/img/black-back.jpg");
+  border: 3px solid red;
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+}
+
+#product-title {
+  color: white;
+}
+
+#product-description {
+  color: white;
+}
+
+#product-price {
+  color: white;
+}
+
+#header-txt {
+  color: white;
+  text-align: center;
+  margin-top: 220px;
+  margin-bottom: 7%;
+}
+
+#sub-header-txt {
+  color: white;
+  text-align: center;
+  margin-bottom: 4%;
+}
+
+#navbar {
+  background-color: black !important;
+  position: fixed !important;
+  top: 0 !important;
+  height: 150px !important;
+  width: 100% !important;
+}
+
+li {
+  color: white !important;
+}
+
+ul {
+  color: white !important;
+}
+
+#catagories-title {
+  color: white;
+}
+
+#catagory-col {
+  padding-left: 5%;
+}
+
+#product-col {
+  margin-right: 8%;
 }

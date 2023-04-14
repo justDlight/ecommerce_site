@@ -1,0 +1,78 @@
+[
+    {
+        "title": "Cables",
+        "sub-cata": {
+            "sub-title-0": "Display & Adapters",
+            "sub-title-1": "DisplayPort Cables",
+            "sub-title-2": "HDMI Cables",
+            "sub-title-3": "SATA Cables"
+        }
+    },
+    {
+        "title": "Cases",
+        "sub-cata": {
+            "sub-title-0": "Phanteks",
+            "sub-title-1": "NZXT",
+            "sub-title-2": "Kolink",
+            "sub-title-3": "Corsair"
+        }
+    },
+    {
+        "title": "CPU's",
+        "sub-cata": {
+            "sub-title-0": "AMD AM4",
+            "sub-title-1": "AMD AM5",
+            "sub-title-2": "INTEL 12th gen",
+            "sub-title-3": "INTEL 13th gen"
+        }
+    },
+    {
+        "title": "Graphic Cards",
+        "sub-cata": {
+            "sub-title-0": "Geforce RTX 3050",
+            "sub-title-1": "Geforce RTX 3060",
+            "sub-title-2": "Geforce RTX 3070",
+            "sub-title-3": "Geforce RTX 3080",
+            "sub-title-4": "Radeon RX 6500 XT",
+            "sub-title-5": "Radeon RX 6700 XT",
+            "sub-title-6": "Radeon RX 6950 XT",
+            "sub-title-7": "Radeon RX 7900 XT"
+        }
+    },
+    {
+        "title": "Hard Drives & SSD's",
+        "sub-cata": {
+            "sub-title-0": "3.5 Hard Drives",
+            "sub-title-1": "2.5 Hard Drives",
+            "sub-title-2": "Solid State Drives",
+            "sub-title-3": "External Drives"
+        }
+    },
+    {
+        "title": "Memory",
+        "sub-cata": {
+            "sub-title-0": "ALL DDR5",
+            "sub-title-1": "ALL DDR4",
+            "sub-title-2": "ALL DDR3"
+        }
+    },
+    {
+        "title": "Monitors",
+        "sub-cata": {
+            "sub-title-0": "All Monitors",
+            "sub-title-1": "23-26 inch Monitors",
+            "sub-title-2": "27-32 inch Monitors",
+            "sub-title-3": "33-55 inch Monitors"
+        }
+    },
+    {
+        "title": "Power Supplies",
+        "sub-cata": {
+            "sub-title-0": "All Models",
+            "sub-title-1": "Super Flower Power Supplies",
+            "sub-title-2": "Phanteks Power Supplies",
+            "sub-title-3": "Corsair Power Supplies",
+            "sub-title-4": "Aerocool Power Supplies"
+        }
+    }
+]
