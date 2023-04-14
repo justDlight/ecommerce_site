@@ -7,6 +7,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import products from '../products.json';
 import products2 from '../products2.json';
 import catagories from '../catagories.json';
+import products3 from '../products3.json';
 
 export default function Home() {
   return (
@@ -132,6 +133,40 @@ export default function Home() {
                 })}
               </div>
             </div>
+
+
+
+
+            {/*Products New and Hot*/}
+            <div className="col" id="product-col">
+              <div className={styles.grid}>
+                {products3.map(products3 => {
+                  return (
+                    <div key={products3.id} className={styles.card}>
+                      <img src={products3.image} alt={`Preview of ${products3.title}`} />
+                      <h3 id="product-title">{ products3.title }</h3>
+                      <p id="product-description">{ products3.description }</p>
+                      <p id="product-price">${ products3.price }</p>
+                      <p>
+                        <button id="test_id" className="snipcart-add-item"
+                          data-item-id={products3.id}
+                          data-item-image={products3.image}
+                          data-item-name={products3.title}
+                          data-item-url="/"
+                          data-item-price={products3.price}
+                        >
+                          Add to Cart
+                        </button>
+                      </p>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+
+
+
+
           </div>
 
 
