@@ -8,6 +8,8 @@ import products from '../products.json';
 import products2 from '../products2.json';
 import catagories from '../catagories.json';
 import products3 from '../products3.json';
+import products4 from '../products4.json';
+import products5 from '../products5.json';
 
 export default function Home() {
   return (
@@ -154,6 +156,63 @@ export default function Home() {
                           data-item-name={products3.title}
                           data-item-url="/"
                           data-item-price={products3.price}
+                        >
+                          Add to Cart
+                        </button>
+                      </p>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+
+
+
+            {/*Products New and Hot*/}
+            <div className="col" id="product-col">
+              <div className={styles.grid}>
+                {products4.map(products4 => {
+                  return (
+                    <div key={products4.id} className={styles.card}>
+                      <img src={products4.image} alt={`Preview of ${products4.title}`} />
+                      <h3 id="product-title">{ products4.title }</h3>
+                      <p id="product-description">{ products4.description }</p>
+                      <p id="product-price">${ products4.price }</p>
+                      <p>
+                        <button id="test_id" className="snipcart-add-item"
+                          data-item-id={products4.id}
+                          data-item-image={products4.image}
+                          data-item-name={products4.title}
+                          data-item-url="/"
+                          data-item-price={products4.price}
+                        >
+                          Add to Cart
+                        </button>
+                      </p>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+
+
+            {/*Products New and Hot*/}
+            <div className="col" id="product-col">
+              <div className={styles.grid}>
+                {products5.map(products5 => {
+                  return (
+                    <div key={products5.id} className={styles.card}>
+                      <img src={products5.image} alt={`Preview of ${products5.title}`} />
+                      <h3 id="product-title">{ products5.title }</h3>
+                      <p id="product-description">{ products5.description }</p>
+                      <p id="product-price">${ products5.price }</p>
+                      <p>
+                        <button id="test_id" className="snipcart-add-item"
+                          data-item-id={products5.id}
+                          data-item-image={products5.image}
+                          data-item-name={products5.title}
+                          data-item-url="/"
+                          data-item-price={products5.price}
                         >
                           Add to Cart
                         </button>
