@@ -66,15 +66,19 @@ export default function Home() {
 
           
           {/*Catagories THIS IS NOT USED WILL BE DELETED*/}
-<div className="row">
-  <div className="col" id="catagory-col">
-    <h4 id="catagories-title">Catagories</h4>
+          <div className="row">
+  <div className="col" id="category-col">
+    <h4 id="categories-title">Categories</h4>
     {catagories.map(category => (
       <div key={category.title}>
         <h3 onClick={cataHideTillClicked}>{category.title}</h3>
         <ul className="sub-cata-list">
           {Object.keys(category['sub-cata']).map(subcat => (
-            <li key={subcat} className="sub-cata-item">{category['sub-cata'][subcat]}</li>
+            <li key={subcat} className="sub-cata-item">
+              <a href={category['sub-cata'][subcat + '-url']} target="_blank">
+                {category['sub-cata'][subcat]}
+              </a>
+            </li>
           ))}
         </ul>
       </div>
