@@ -79,6 +79,33 @@ export default function Home() {
   </div>
 
 
+            {/*Products New and Hot*/}
+            <div className="col" id="product-col">
+              <div className={styles.grid}>
+                {products.map(product => {
+                  return (
+                    <div key={product.id} className={styles.card}>
+                      <img src={product.image} alt={`Preview of ${product.title}`} />
+                      <h3 id="product-title">{ product.title }</h3>
+                      <p id="product-description">{ product.description }</p>
+                      <p id="product-price">${ product.price }</p>
+                      <p>
+                        <button id="test_id" className="snipcart-add-item"
+                          data-item-id={product.id}
+                          data-item-image={product.image}
+                          data-item-name={product.title}
+                          data-item-url="/"
+                          data-item-price={product.price}
+                        >
+                          Add to Cart
+                        </button>
+                      </p>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+
                 
 
 
