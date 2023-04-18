@@ -1,9 +1,8 @@
 import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 import 'bootstrap/dist/css/bootstrap.css'
 
+import cataHideTillClicked from '../jwCustomJS.js';
 import products from '../products.json';
 import products2 from '../products2.json';
 import catagories from '../catagories.json';
@@ -51,6 +50,7 @@ export default function Home() {
           </div>
 
 
+
           {/*Title Homepage*/}
           <div className="row">
             <h1 className={styles.title} id="header-txt">
@@ -63,20 +63,20 @@ export default function Home() {
 
           
           {/*Catagories THIS IS NOT USED WILL BE DELETED*/}
-          <div className="row">
-            <div className="col" id="catagory-col">
-              <h4 id="catagories-title">Catagories</h4>
-              {catagories.map(category => (
-                <div key={category.title}>
-                  <h3>{category.title}</h3>
-                  <ul>
-                    {Object.keys(category['sub-cata']).map(subcat => (
-                      <li key={subcat}>{category['sub-cata'][subcat]}</li>
-                    ))}
-                  </ul>
-                </div>
-              ))}
-            </div>
+<div className="row">
+  <div className="col" id="catagory-col">
+    <h4 id="catagories-title">Catagories</h4>
+    {catagories.map(category => (
+      <div key={category.title}>
+        <h3 onClick={cataHideTillClicked}>{category.title}</h3>
+        <ul className="sub-cata-list">
+          {Object.keys(category['sub-cata']).map(subcat => (
+            <li key={subcat} className="sub-cata-item">{category['sub-cata'][subcat]}</li>
+          ))}
+        </ul>
+      </div>
+    ))}
+  </div>
 
 
             {/*Products New and Hot*/}
@@ -106,7 +106,7 @@ export default function Home() {
               </div>
             </div>
 
-
+                
 
 
             {/*Products New and Hot*/}
@@ -234,6 +234,7 @@ export default function Home() {
       <footer className={styles.footer}>
       </footer>
       <script async src="https://cdn.snipcart.com/themes/v3.0.21/default/snipcart.js" />
+      <script src="../jwCustomJS.js" />
       <div hidden id="snipcart" data-api-key="YTM0MzEzM2ItOWU3MC00N2YzLWEwYzYtM2E3ZTFiYTVkYmFkNjM4MTU4MjYyOTU0Mzg4NjYw" />
     </div>
   )

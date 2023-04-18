@@ -186,6 +186,15 @@ li {
   color: white !important;
 }
 
+.sub-cata-list {
+  display: none;
+}
+
+.sub-cata-item {
+  color: white;
+}
+
+
 ul {
   color: white !important;
 }
