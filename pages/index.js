@@ -12,6 +12,7 @@ import catagories from '../catagories.json';
 import products3 from '../products3.json';
 import products4 from '../products4.json';
 import products5 from '../products5.json';
+import products6 from '../products6.json';
 
 export default function Home() {
   return (
@@ -29,7 +30,6 @@ export default function Home() {
       
       
       <main className={styles.main}>
-
 
         {/*Nav bar*/}
         <div className="row" id="header-img">
@@ -84,6 +84,10 @@ export default function Home() {
       </div>
     ))}
   </div>
+
+
+
+  
 
 
             {/*Products New and Hot*/}
@@ -220,6 +224,35 @@ export default function Home() {
                           data-item-name={products5.title}
                           data-item-url="/"
                           data-item-price={products5.price}
+                        >
+                          Add to Cart
+                        </button>
+                      </p>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+
+
+
+            {/*Products New and Hot*/}
+            <div className="col" id="product-col">
+              <div className={styles.grid}>
+                {products6.map(products6 => {
+                  return (
+                    <div key={products6.id} className={styles.card}>
+                      <img src={products6.image} alt={`Preview of ${products6.title}`} />
+                      <h3 id="product-title">{ products6.title }</h3>
+                      <p id="product-description">{ products6.description }</p>
+                      <p id="product-price">${ products6.price }</p>
+                      <p>
+                        <button id="test_id" className="snipcart-add-item"
+                          data-item-id={products6.id}
+                          data-item-image={products6.image}
+                          data-item-name={products6.title}
+                          data-item-url="/"
+                          data-item-price={products6.price}
                         >
                           Add to Cart
                         </button>
