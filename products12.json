@@ -1,0 +1,107 @@
+
+[
+    {
+    "title":"Intel Core i5 12400 Processor",
+    "id":"https://www.pccasegear.com/products/56720/intel-core-i5-12400-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1641255267-BX8071512500-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56720/intel-core-i5-12400-processor",
+    "description":"Intel Core i5 12400 2.5GHz (4.4GHz max clock speed), 6 Cores, 12 Thread CPU, Socket LGA 1700, 18MB SmartCache, 65W processor based power, BX8071512400. Retail box including fan, heatsink and thermal paste.You can find a list of LGA 1700 compatible CPU coolers here.…",
+    "price":"299"
+    },
+    {
+    "title":"Intel Core i5 12400F Processor",
+    "id":"https://www.pccasegear.com/products/56721/intel-core-i5-12400f-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1641256661-BX8071512400F-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56721/intel-core-i5-12400f-processor",
+    "description":"Intel Core i5 12400F 2.5GHz (4.4GHz max clock speed), 6 Cores, 12 Thread CPU, Socket LGA 1700, 18MB SmartCache, 65W processor based power, BX8071512400F. Retail box including fan, heatsink and thermal paste.Please note: This CPU does not have an Integrated Graphics Proc…",
+    "price":"249"
+    },
+    {
+    "title":"Intel Core i5 12500 Processor",
+    "id":"https://www.pccasegear.com/products/56719/intel-core-i5-12500-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1641255267-BX8071512500-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56719/intel-core-i5-12500-processor",
+    "description":"Intel Core i5 12500 3.0GHz (4.6GHz max clock speed), 6 Cores, 12 Thread CPU, Socket LGA 1700, 18MB SmartCache, 65W processor based power, BX8071512500. Retail box including fan, heatsink and thermal paste.You can find a list of LGA 1700 compatible CPU coolers here.…",
+    "price":"309"
+    },
+    {
+    "title":"Intel Core i5 12600 Processor",
+    "id":"https://www.pccasegear.com/products/56717/intel-core-i5-12600-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1641255267-BX8071512500-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56717/intel-core-i5-12600-processor",
+    "description":"Intel Core i5 12600 3.3GHz (4.8GHz max clock speed), 6 Cores, 12 Thread CPU, Socket LGA 1700, 18MB SmartCache, 65W processor based power, BX8071512600. Retail box including fan, heatsink and thermal paste.You can find a list of LGA 1700 compatible CPU coolers here.…",
+    "price":"399"
+    },
+    {
+    "title":"Intel Core i5 12600K Processor",
+    "id":"https://www.pccasegear.com/products/55930/intel-core-i5-12600k-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1635225045-BX8071512600K-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55930/intel-core-i5-12600k-processor",
+    "description":"Intel Core i5 12600K 3.7GHz (4.9GHz max clock speed), 10 Cores (6 Performance-cores, 4 Efficient-cores), 16 Thread (12 on Performance-cores, 4 on Efficient-cores) CPU, Socket LGA 1700, 20MB SmartCache, 125 W processor base power, BX8071512600K. Retail box does not inclu…",
+    "price":"405"
+    },
+    {
+    "title":"Intel Core i5 12600KF Processor",
+    "id":"https://www.pccasegear.com/products/55931/intel-core-i5-12600kf-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1635225958-BX8071512600KF-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55931/intel-core-i5-12600kf-processor",
+    "description":"Intel Core i5 12600KF Processor 3.7GHz (4.9GHz max clock speed), 10 Cores (6 Performance-cores, 4 Efficient-cores), 16 Thread (12 on Performance-cores, 4 on Efficient-cores) CPU, Socket LGA 1700, 20MB SmartCache, 125 W processor base power, BX8071512600KF. Retail box do…",
+    "price":"409"
+    },
+    {
+    "title":"Intel Core i7 12700 Processor",
+    "id":"https://www.pccasegear.com/products/56788/intel-core-i7-12700-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1641255362-BX8071512700-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56788/intel-core-i7-12700-processor",
+    "description":"Intel Core i7 12700 3.6GHz (4.9GHz max clock speed), 12 Cores (8 Performance-cores, 4 Efficient-cores), 20 Thread (16 on Performance-cores, 4 on Efficient-cores) CPU, Socket LGA 1700, 25MB SmartCache, 65W processor base power, BX8071512700. Retail box including fan, he…",
+    "price":"509"
+    },
+    {
+    "title":"Intel Core i7 12700F Processor",
+    "id":"https://www.pccasegear.com/products/56718/intel-core-i7-12700f-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1641255324-BX8071512700F-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56718/intel-core-i7-12700f-processor",
+    "description":"Intel Core i7 12700F 3.6GHz (4.9GHz max clock speed), 12 Cores (8 Performance-cores, 4 Efficient-cores), 20 Thread (16 on Performance-cores, 4 on Efficient-cores) CPU, Socket LGA 1700, 25MB SmartCache, 65W processor base power, BX8071512700F. Retail box including fan, h…",
+    "price":"489"
+    },
+    {
+    "title":"Intel Core i7 12700K Processor",
+    "id":"https://www.pccasegear.com/products/55932/intel-core-i7-12700k-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1635226717-BX8071512700K-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55932/intel-core-i7-12700k-processor",
+    "description":"Intel Core i7 12700K 3.6GHz (5.0GHz max clock speed), 12 Cores (8 Performance-cores, 4 Efficient-cores), 20 Thread (16 on Performance-cores, 4 on Efficient-cores) CPU, Socket LGA 1700, 25MB SmartCache, 125 W processor base power, BX8071512700K. Retail box does not inclu…",
+    "price":"569"
+    },
+    {
+    "title":"Intel Core i7 12700KF Processor",
+    "id":"https://www.pccasegear.com/products/55933/intel-core-i7-12700kf-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1635228425-BX8071512700KF-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55933/intel-core-i7-12700kf-processor",
+    "description":"Intel Core i7 12700KF 3.6GHz (5.0GHz max clock speed), 12 Cores (8 Performance-cores, 4 Efficient-cores), 20 Thread (16 on Performance-cores, 4 on Efficient-cores) CPU, Socket LGA 1700, 25MB SmartCache, 125 W processor base power, BX8071512700KF. Retail box does not inc…",
+    "price":"519"
+    },
+    {
+    "title":"Intel Core i9 12900K Processor",
+    "id":"https://www.pccasegear.com/products/55934/intel-core-i9-12900k-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1635229849-BX8071512900K-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55934/intel-core-i9-12900k-processor",
+    "description":"Intel Core i9 12900K 3.2GHz (5.2GHz max clock speed), 16 Cores (8 Performance-cores, 8 Efficient-cores), 24 Thread (16 on Performance-cores, 8 on Efficient-cores) CPU, Socket LGA 1700, 30MB SmartCache, 125 W processor base power, BX8071512900K. Retail box does not inclu…",
+    "price":"729"
+    },
+    {
+    "title":"Intel Core i9 12900KF Processor",
+    "id":"https://www.pccasegear.com/products/55935/intel-core-i9-12900kf-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1635230253-BX8071512900KF-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55935/intel-core-i9-12900kf-processor",
+    "description":"Intel Core i9 12900KF 3.2GHz (5.2GHz max clock speed), 16 Cores (8 Performance-cores, 8 Efficient-cores), 24 Thread (16 on Performance-cores, 8 on Efficient-cores) CPU, Socket LGA 1700, 30MB SmartCache, 125 W processor base power, BX8071512900KF. Retail box does not inc…",
+    "price":"679"
+    },
+    {
+    "title":"Intel Core i9 12900KS Processor",
+    "id":"https://www.pccasegear.com/products/57292/intel-core-i9-12900ks-processor",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1648447975-BX8071512900KS-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57292/intel-core-i9-12900ks-processor",
+    "description":"On sale! (normally $1100) Intel Core i9 12900KS 3.4GHz (5.5GHz max clock speed), 16 Cores (8 Performance-cores, 8 Efficient-cores), 24 Thread (16 on Performance-cores, 8 on Efficient-cores) CPU, Socket LGA 1700, 30MB SmartCache, 125 W processor base power, BX8071512900K…",
+    "price":"899"
+    }
+]

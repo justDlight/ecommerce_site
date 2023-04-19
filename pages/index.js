@@ -67,27 +67,25 @@ export default function Home() {
           
           {/*Catagories THIS IS NOT USED WILL BE DELETED*/}
           <div className="row">
-  <div className="col" id="category-col">
-    <h4 id="categories-title">Categories</h4>
-    {catagories.map(category => (
-      <div key={category.title}>
-        <h3 onClick={cataHideTillClicked}>{category.title}</h3>
-        <ul className="sub-cata-list">
-          {Object.keys(category['sub-cata']).map(subcat => (
-            <li key={subcat} className="sub-cata-item">
-              <a href={category['sub-cata'][subcat + '-url']} target="_blank">
-                {category['sub-cata'][subcat]}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </div>
-    ))}
-  </div>
+            <div className="col" id="category-col">
+              <h4 id="categories-title">Categories</h4>
+              {catagories.map(category => (
+                <div key={category.title}>
+                  <h3 onClick={cataHideTillClicked}>{category.title}</h3>
+                  <ul className="sub-cata-list">
+                    {Object.keys(category['sub-cata']).map(subcat => (
+                      <li key={subcat} className="sub-cata-item">
+                        <a href={category['sub-cata'][subcat + '-url']} target="_blank">
+                          {category['sub-cata'][subcat]}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              ))}
+            </div>
 
 
-
-  
 
 
             {/*Products New and Hot*/}
@@ -116,154 +114,6 @@ export default function Home() {
                 })}
               </div>
             </div>
-
-                
-
-
-            {/*Products New and Hot*/}
-            <div className="col" id="product-col">
-              <div className={styles.grid}>
-                {products2.map(products2 => {
-                  return (
-                    <div key={products2.id} className={styles.card}>
-                      <img src={products2.image} alt={`Preview of ${products2.title}`} />
-                      <h3 id="product-title">{ products2.title }</h3>
-                      <p id="product-description">{ products2.description }</p>
-                      <p id="product-price">${ products2.price }</p>
-                      <p>
-                        <button id="test_id" className="snipcart-add-item"
-                          data-item-id={products2.id}
-                          data-item-image={products2.image}
-                          data-item-name={products2.title}
-                          data-item-url="/"
-                          data-item-price={products2.price}
-                        >
-                          Add to Cart
-                        </button>
-                      </p>
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-
-
-
-
-            {/*Products New and Hot*/}
-            <div className="col" id="product-col">
-              <div className={styles.grid}>
-                {products3.map(products3 => {
-                  return (
-                    <div key={products3.id} className={styles.card}>
-                      <img src={products3.image} alt={`Preview of ${products3.title}`} />
-                      <h3 id="product-title">{ products3.title }</h3>
-                      <p id="product-description">{ products3.description }</p>
-                      <p id="product-price">${ products3.price }</p>
-                      <p>
-                        <button id="test_id" className="snipcart-add-item"
-                          data-item-id={products3.id}
-                          data-item-image={products3.image}
-                          data-item-name={products3.title}
-                          data-item-url="/"
-                          data-item-price={products3.price}
-                        >
-                          Add to Cart
-                        </button>
-                      </p>
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-
-
-
-            {/*Products New and Hot*/}
-            <div className="col" id="product-col">
-              <div className={styles.grid}>
-                {products4.map(products4 => {
-                  return (
-                    <div key={products4.id} className={styles.card}>
-                      <img src={products4.image} alt={`Preview of ${products4.title}`} />
-                      <h3 id="product-title">{ products4.title }</h3>
-                      <p id="product-description">{ products4.description }</p>
-                      <p id="product-price">${ products4.price }</p>
-                      <p>
-                        <button id="test_id" className="snipcart-add-item"
-                          data-item-id={products4.id}
-                          data-item-image={products4.image}
-                          data-item-name={products4.title}
-                          data-item-url="/"
-                          data-item-price={products4.price}
-                        >
-                          Add to Cart
-                        </button>
-                      </p>
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-
-
-            {/*Products New and Hot*/}
-            <div className="col" id="product-col">
-              <div className={styles.grid}>
-                {products5.map(products5 => {
-                  return (
-                    <div key={products5.id} className={styles.card}>
-                      <img src={products5.image} alt={`Preview of ${products5.title}`} />
-                      <h3 id="product-title">{ products5.title }</h3>
-                      <p id="product-description">{ products5.description }</p>
-                      <p id="product-price">${ products5.price }</p>
-                      <p>
-                        <button id="test_id" className="snipcart-add-item"
-                          data-item-id={products5.id}
-                          data-item-image={products5.image}
-                          data-item-name={products5.title}
-                          data-item-url="/"
-                          data-item-price={products5.price}
-                        >
-                          Add to Cart
-                        </button>
-                      </p>
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-
-
-
-            {/*Products New and Hot*/}
-            <div className="col" id="product-col">
-              <div className={styles.grid}>
-                {products6.map(products6 => {
-                  return (
-                    <div key={products6.id} className={styles.card}>
-                      <img src={products6.image} alt={`Preview of ${products6.title}`} />
-                      <h3 id="product-title">{ products6.title }</h3>
-                      <p id="product-description">{ products6.description }</p>
-                      <p id="product-price">${ products6.price }</p>
-                      <p>
-                        <button id="test_id" className="snipcart-add-item"
-                          data-item-id={products6.id}
-                          data-item-image={products6.image}
-                          data-item-name={products6.title}
-                          data-item-url="/"
-                          data-item-price={products6.price}
-                        >
-                          Add to Cart
-                        </button>
-                      </p>
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-
-
 
 
           </div>
