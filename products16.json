@@ -1,0 +1,35 @@
+
+[
+    {
+    "title":"ASUS GeForce RTX 3070 Dual OC LHR 8GB",
+    "id":"https://www.pccasegear.com/products/54973/asus-geforce-rtx-3070-dual-oc-lhr-8gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1627449708-DUAL-RTX3070-O8G-V2-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/54973/asus-geforce-rtx-3070-dual-oc-lhr-8gb",
+    "description":"The ASUS GeForce RTX 3070 Dual OC LHR 8GB graphics card features 8GB GDDR6 256-bit memory interface, 14GB/s memory speed, PCI-E 4.0, 2 x HDMI 2.1, 3 x DisplayPort 1.4a, HDCP support, OpenGL 4.6 and DirectX 12 support, and subtle RGB lighting.Delivering the latest NVIDIA…",
+    "price":"879"
+    },
+    {
+    "title":"Gigabyte GeForce RTX 3070 Eagle OC LHR 8GB",
+    "id":"https://www.pccasegear.com/products/55290/gigabyte-geforce-rtx-3070-eagle-oc-lhr-8gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1603771092-GV-N3070EAGLE-OC-8GD-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55290/gigabyte-geforce-rtx-3070-eagle-oc-lhr-8gb",
+    "description":"The Gigabyte GeForce RTX 3070 Eagle OC LHR 8GB graphics card features a 1770MHz core clock, 8GB GDDR6 256-bit memory interface, 14000MHz memory clock, PCI-E 4.0, 2 x HDMI 2.1, 2 x DisplayPort 1.4a, OpenGL 4.6 and DirectX 12 Ultimate support, and RGB lighting.…",
+    "price":"779"
+    },
+    {
+    "title":"Gigabyte GeForce RTX 3070 Gaming OC LHR 8GB",
+    "id":"https://www.pccasegear.com/products/54828/gigabyte-geforce-rtx-3070-gaming-oc-lhr-8gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1603772280-GV-N3070GAMING-OC-8GD-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/54828/gigabyte-geforce-rtx-3070-gaming-oc-lhr-8gb",
+    "description":"The Gigabyte GeForce RTX 3070 Gaming OC LHR 8GB graphics card features a 1815MHz core clock, 8GB GDDR6 256-bit memory interface, 14000MHz memory clock, PCI-E 4.0, 2 x HDMI 2.1, 2 x DisplayPort 1.4a, OpenGL 4.6 and DirectX 12 Ultimate support, and RGB lighting.…",
+    "price":"819"
+    },
+    {
+    "title":"MSI GeForce RTX 3070 Ventus 2X OC LHR 8GB",
+    "id":"https://www.pccasegear.com/products/55428/msi-geforce-rtx-3070-ventus-2x-oc-lhr-8gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1603850075-RTX-3070-VENTUS-2X-OC-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55428/msi-geforce-rtx-3070-ventus-2x-oc-lhr-8gb",
+    "description":"The MSI GeForce RTX 3070 Ventus 2X OC LHR 8GB graphics card features a 1755MHz core clock, 8GB GDDR6 256-bit memory interface, 14GB/s memory speed, PCI-E 4.0, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, HDCP support, OpenGL 4.6 and DirectX 12 support.Ventus brings a performance…",
+    "price":"799"
+    }
+]

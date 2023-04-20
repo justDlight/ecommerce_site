@@ -1,0 +1,42 @@
+[
+    {
+    "title":"Crucial BX500 500GB 3D NAND SATA 2.5-inch SSD",
+    "id":"https://www.pccasegear.com/products/60884/crucial-bx500-500gb-3d-nand-sata-2-5-inch-ssd",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/CT500BX500SSD1-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60884/crucial-bx500-500gb-3d-nand-sata-2-5-inch-ssd",
+    "description":"Accelerate everything with the Crucial BX500 500GB 3D NAND SATA 2.5-inch SSD. Ever wonder why your phone responds faster than your computer? It's because your phone runs on flash memory. Add flash to your laptop or desktop computer with the Crucial BX500 SSD, the easies…",
+    "price":"39"
+    },
+    {
+    "title":"Seagate Barracuda ST2000LM015 2.5in 2TB HDD",
+    "id":"https://www.pccasegear.com/products/37260/seagate-barracuda-st2000lm015-2-5in-2tb-hdd",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1608762398-ST2000LM015-thb4.jpg",
+    "image_id":"https://www.pccasegear.com/products/37260/seagate-barracuda-st2000lm015-2-5in-2tb-hdd",
+    "description":"Seagate Barracuda ST2000LM015, 2TB, SATA III, 2.5in, 128MB Cache. Experience the highest capacity, and the thinnest 2.5-inch hard drive you've ever seen. Seagate Barracuda drives are designed for all of your application and data needs, and with a slim 7mm form factor dr…",
+    "price":"129"
+    },
+    {
+    "title":"Western Digital WD Black WD10SPSX 2.5in 1TB HDD",
+    "id":"https://www.pccasegear.com/products/55490/western-digital-wd-black-wd10spsx-2-5in-1tb-hdd",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1631749042-WD10SPSX-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55490/western-digital-wd-black-wd10spsx-2-5in-1tb-hdd",
+    "description":"The Western Digital WD Black WD10SPSX 2.5in 1TB HDD is designed to enhance your PC experience, whether at home in your new all-in-one desktop, or on-the-go in your trusty notebook. With up to 1TB of storage running at 7200 RPM with 64MB Cache, you get an extremely fast…",
+    "price":"89"
+    },
+    {
+    "title":"Western Digital WD Blue WD10SPZX 2.5in 1TB HDD",
+    "id":"https://www.pccasegear.com/products/44648/western-digital-wd-blue-wd10spzx-2-5in-1tb-hdd",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1554686510-WD20SPZX-thh.jpg",
+    "image_id":"https://www.pccasegear.com/products/44648/western-digital-wd-blue-wd10spzx-2-5in-1tb-hdd",
+    "description":"Built to WD's high standards of quality and reliability, WD Blue mobile hard drives offer the features that are ideal for your everyday mobile computing needs. The WD10SPZX offers a large 1TB capacity, 5400RPM, 128MB cache and a SATA 6Gb/s interface.…",
+    "price":"69"
+    },
+    {
+    "title":"Western Digital WD Blue WD20SPZX 2.5in 2TB HDD",
+    "id":"https://www.pccasegear.com/products/45927/western-digital-wd-blue-wd20spzx-2-5in-2tb-hdd",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1586242689-WD20SPZX-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/45927/western-digital-wd-blue-wd20spzx-2-5in-2tb-hdd",
+    "description":"Introducing the Western Digital 2TB Blue Hard Drive, SATA III 6.0Gb/s, 2.5in 128MB Cache, 5400RPM. These drives feature inspiring performance and capacity using high-end components which allows the disks inside the drive to adapt to any mounting problems or vibration co…",
+    "price":"134"
+    }
+]

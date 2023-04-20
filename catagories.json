@@ -42,49 +42,69 @@
         "title": "Graphic Cards",
         "sub-cata": {
             "sub-title-0": "Geforce RTX 3050",
+            "sub-title-0-url": "http://localhost:3000/rtx3050",
             "sub-title-1": "Geforce RTX 3060",
+            "sub-title-1-url": "http://localhost:3000/rtx3060",
             "sub-title-2": "Geforce RTX 3070",
+            "sub-title-2-url": "http://localhost:3000/rtx3070",
             "sub-title-3": "Geforce RTX 3080",
+            "sub-title-3-url": "http://localhost:3000/rtx3080",
             "sub-title-4": "Radeon RX 6500 XT",
+            "sub-title-4-url": "http://localhost:3000/rx6500",
             "sub-title-5": "Radeon RX 6700 XT",
+            "sub-title-5-url": "http://localhost:3000/rx6700",
             "sub-title-6": "Radeon RX 6950 XT",
-            "sub-title-7": "Radeon RX 7900 XT"
+            "sub-title-6-url": "http://localhost:3000/rx6950",
+            "sub-title-7": "Radeon RX 7900 XT",
+            "sub-title-7-url": "http://localhost:3000/rx7900"
         }
     },
     {
         "title": "Hard Drives & SSD's",
         "sub-cata": {
             "sub-title-0": "3.5 Hard Drives",
+            "sub-title-0-url": "http://localhost:3000/35inHD",
             "sub-title-1": "2.5 Hard Drives",
+            "sub-title-1-url": "http://localhost:3000/25inHD",
             "sub-title-2": "Solid State Drives",
-            "sub-title-3": "External Drives"
+            "sub-title-2-url": "http://localhost:3000/ssds",
+            "sub-title-3": "External Drives",
+            "sub-title-3-url": "http://localhost:3000/extHardDrives"
         }
     },
     {
         "title": "Memory",
         "sub-cata": {
             "sub-title-0": "ALL DDR5",
+            "sub-title-0-url": "http://localhost:3000/ddr5",
             "sub-title-1": "ALL DDR4",
-            "sub-title-2": "ALL DDR3"
+            "sub-title-1-url": "http://localhost:3000/ddr4",
+            "sub-title-2": "ALL DDR3",
+            "sub-title-2-url": "http://localhost:3000/ddr3"
         }
     },
     {
         "title": "Monitors",
         "sub-cata": {
-            "sub-title-0": "All Monitors",
-            "sub-title-1": "23-26 inch Monitors",
-            "sub-title-2": "27-32 inch Monitors",
-            "sub-title-3": "33-55 inch Monitors"
+            "sub-title-0": "23-26 inch Monitors",
+            "sub-title-0-url": "http://localhost:3000/23to26inchMonitors",
+            "sub-title-1": "27-32 inch Monitors",
+            "sub-title-1-url": "http://localhost:3000/33to35inchMonitor",
+            "sub-title-2": "33-55 inch Monitors",
+            "sub-title-2-url": "http://localhost:3000/33to35inchMonitor"
         }
     },
     {
         "title": "Power Supplies",
         "sub-cata": {
-            "sub-title-0": "All Models",
-            "sub-title-1": "Super Flower Power Supplies",
-            "sub-title-2": "Phanteks Power Supplies",
-            "sub-title-3": "Corsair Power Supplies",
-            "sub-title-4": "Aerocool Power Supplies"
+            "sub-title-0": "Super Flower Power Supplies",
+            "sub-title-0-url": "http://localhost:3000/superFlowerPSU",
+            "sub-title-1": "Phanteks Power Supplies",
+            "sub-title-1-url": "http://localhost:3000/phanteksPSU",
+            "sub-title-2": "Corsair Power Supplies",
+            "sub-title-2-url": "http://localhost:3000/corsairPSU",
+            "sub-title-3": "Aerocool Power Supplies",
+            "sub-title-3-url": "http://localhost:3000/aerocoolPSU"
         }
     }
 ]

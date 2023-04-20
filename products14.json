@@ -1,0 +1,43 @@
+[
+    {
+    "title":"ASUS GeForce RTX 3050 TUF Gaming OC 8GB",
+    "id":"https://www.pccasegear.com/products/61063/asus-geforce-rtx-3050-tuf-gaming-oc-8gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1677125695-TUF-RTX3050-O8G-GAMING-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61063/asus-geforce-rtx-3050-tuf-gaming-oc-8gb",
+    "description":"The ASUS GeForce RTX 3050 TUF Gaming OC 8GB graphics card features NVIDIA Ampere Streaming Multiprocessors, 2nd Generation RT Cores, 3rd Generation Tensor Cores, boost clock speed of 1875MHz (OC mode), and 1845MHz (gaming mode). Its Axial-tech fan design, dual ball fan…",
+    "price":"459"
+    },
+    {
+    "title":"Galax GeForce RTX 3050 EX (1-Click OC) 8GB",
+    "id":"https://www.pccasegear.com/products/57070/galax-geforce-rtx-3050-ex-1-click-oc-8gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1644819377-35NSL8MD6YEX-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57070/galax-geforce-rtx-3050-ex-1-click-oc-8gb",
+    "description":"The Galax GeForce RTX 3050 EX (1-Click OC) 8GB graphics card features a 1822MHz boost clock, 1837MHz 1-Click OC clock, 8GB GDDR6 VRAM, 128-bit memory interface, 14Gb/s memory speed, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, HDCP 2.3 support, OpenGL 4.6 and DirectX 12 support…",
+    "price":"389"
+    },
+    {
+    "title":"MSI GeForce RTX 3050 Aero ITX OC 8GB",
+    "id":"https://www.pccasegear.com/products/57009/msi-geforce-rtx-3050-aero-itx-oc-8gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1643260722-RTX-3050-AERO-ITX-8G-OC-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57009/msi-geforce-rtx-3050-aero-itx-oc-8gb",
+    "description":"The MSI GeForce RTX 3050 Aero ITX OC 8GB graphics card features a 1807MHz boost clock, 8GB GDDR6 VRAM, 128-bit memory interface, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, HDCP support, OpenGL 4.6 and DirectX 12 support.…",
+    "price":"479"
+    },
+    {
+    "title":"MSI GeForce RTX 3050 Gaming X 8GB",
+    "id":"https://www.pccasegear.com/products/57007/msi-geforce-rtx-3050-gaming-x-8gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1643254994-RTX-3050-GAMING-X-8G-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57007/msi-geforce-rtx-3050-gaming-x-8gb",
+    "description":"The MSI GeForce RTX 3050 Gaming X 8GB features a 1845Mhz boost clock, 8GB GDDR6 VRAM, 128-bit memory interface, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, HDCP support, OpenGL 4.6 and DirectX 12 support and RGB lighting.…",
+    "price":"499"
+    },
+    {
+    "title":"MSI GeForce RTX 3050 Ventus 2X OC 8GB",
+    "id":"https://www.pccasegear.com/products/57008/msi-geforce-rtx-3050-ventus-2x-oc-8gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1643259143-RTX-3050-VENTUS-2X-OC-8G-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57008/msi-geforce-rtx-3050-ventus-2x-oc-8gb",
+    "description":"The MSI GeForce RTX 3050 Ventus 2X OC 8GB graphics card features a 1807MHz boost clock, 8GB GDDR6 VRAM, 128-bit memory interface, 1 x HDMI 2.1, 3 x DisplayPort 1.4a, HDCP support, OpenGL 4.6 and DirectX 12 support.…",
+    "price":"459"
+    }
+]
+    

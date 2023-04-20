@@ -1,0 +1,906 @@
+[
+    {
+    "title":"Samsung 870 EVO 2.5in SATA SSD 1TB",
+    "id":"https://www.pccasegear.com/products/53095/samsung-870-evo-2-5in-sata-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1611038150-MZ-77E1T0BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/53095/samsung-870-evo-2-5in-sata-ssd-1tb",
+    "description":"Designed for everyday computing, the Samsung 870 EVO is powered by Samsung's latest V-NAND technology and a robust algorithm-based Samsung controller to handle the workloads of mainstream PCs and laptops. It features sequential read speeds of up to 560MB/s and sequentia…",
+    "price":"139"
+    },
+    {
+    "title":"Samsung 870 EVO 2.5in SATA SSD 4TB",
+    "id":"https://www.pccasegear.com/products/53093/samsung-870-evo-2-5in-sata-ssd-4tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1611038537-MZ-77E4T0BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/53093/samsung-870-evo-2-5in-sata-ssd-4tb",
+    "description":"Designed for everyday computing, the Samsung 870 EVO is powered by Samsung's latest V-NAND technology and a robust algorithm-based Samsung controller to handle the workloads of mainstream PCs and laptops. It features sequential read speeds of up to 560MB/s and sequentia…",
+    "price":"499"
+    },
+    {
+    "title":"Samsung 870 EVO 2.5in SATA SSD 500GB",
+    "id":"https://www.pccasegear.com/products/53096/samsung-870-evo-2-5in-sata-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1611037917-MZ-77E500BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/53096/samsung-870-evo-2-5in-sata-ssd-500gb",
+    "description":"Designed for everyday computing, the Samsung 870 EVO is powered by Samsung's latest V-NAND technology and a robust algorithm-based Samsung controller to handle the workloads of mainstream PCs and laptops. It features sequential read speeds of up to 560MB/s and sequentia…",
+    "price":"79"
+    },
+    {
+    "title":"Samsung 970 EVO Plus NVMe SSD 1TB",
+    "id":"https://www.pccasegear.com/products/45317/samsung-970-evo-plus-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1585723277-MZ-V7S1T0BW-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/45317/samsung-970-evo-plus-nvme-ssd-1tb",
+    "description":"On sale! (normally 135) The Samsung SSD 970 EVO Plus is a client PC NVMe SSD with 3-bit MLC V-NAND. The 970 EVO Plus is specially designed for tech enthusiasts, hardcore gamers, and professionals who need unrivalledperformance, superior reliability, and it boasts the b…",
+    "price":"99"
+    },
+    {
+    "title":"Samsung 970 EVO Plus NVMe SSD 2TB",
+    "id":"https://www.pccasegear.com/products/45316/samsung-970-evo-plus-nvme-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1585723277-MZ-V7S1T0BW-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/45316/samsung-970-evo-plus-nvme-ssd-2tb",
+    "description":"The Samsung SSD 970 EVO Plus is a client PC NVMe SSD with 3-bit MLC V-NAND. The 970 EVO Plus is specially designed for tech enthusiasts, hardcore gamers, and professionals who need unrivalled performance, superior reliability, and it boasts the best-in-class capacity fo…",
+    "price":"249"
+    },
+    {
+    "title":"Samsung 970 EVO Plus NVMe SSD 500GB",
+    "id":"https://www.pccasegear.com/products/45318/samsung-970-evo-plus-nvme-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1585723277-MZ-V7S1T0BW-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/45318/samsung-970-evo-plus-nvme-ssd-500gb",
+    "description":"The Samsung SSD 970 EVO Plus is a client PC NVMe SSD with 3-bit MLC V-NAND. The 970 EVO Plus is specially designed for tech enthusiasts, hardcore gamers, and professionals who need unrivalledperformance, superior reliability, and it boasts the best-in-class capacity for…",
+    "price":"75"
+    },
+    {
+    "title":"ADATA Legend 710 PCIe Gen3x4 M.2 1TB SSD",
+    "id":"https://www.pccasegear.com/products/61685/adata-legend-710-pcie-gen3x4-m-2-1tb-ssd",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/ALEG-710-1TCS-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61685/adata-legend-710-pcie-gen3x4-m-2-1tb-ssd",
+    "description":"The ADATA Legend 710 PCIe Gen3x4 M.2 1TB SSD is powered by the PCIe Gen3 x4 interface to provide a maximum read/write speeds of 2400/1800MB per second and a capacity of 1TB.…",
+    "price":"69"
+    },
+    {
+    "title":"ADATA Legend 800 PCIe Gen4x4 M.2 1TB SSD",
+    "id":"https://www.pccasegear.com/products/61124/adata-legend-800-pcie-gen4x4-m-2-1tb-ssd",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/ALEG-800-1000GCS-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61124/adata-legend-800-pcie-gen4x4-m-2-1tb-ssd",
+    "description":"The ADATA Legend 800 PCIe Gen4x4 M.2 1TB SSD is powered by the PCIe Gen 4 x4 interface to provide a maximum read/write speed of 3500/2800MB per second and a capacity of up to 2000GB. This SSD supports NVMe 1.4 and the latest Intel and AMD platforms.…",
+    "price":"76"
+    },
+    {
+    "title":"ADATA Legend 800 PCIe Gen4x4 M.2 2TB SSD",
+    "id":"https://www.pccasegear.com/products/61125/adata-legend-800-pcie-gen4x4-m-2-2tb-ssd",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/ALEG-800-2000GCS-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61125/adata-legend-800-pcie-gen4x4-m-2-2tb-ssd",
+    "description":"The ADATA Legend 800 PCIe Gen4x4 M.2 2TB SSD is powered by the PCIe Gen 4 x4 interface to provide a maximum read/write speed of 3500/2800MB per second and a capacity of up to 2000GB. This SSD supports NVMe 1.4 and the latest Intel and AMD platforms.…",
+    "price":"159"
+    },
+    {
+    "title":"ADATA XPG ASX8600 Pro M.2 NVME SSD 1TB",
+    "id":"https://www.pccasegear.com/products/56692/adata-xpg-asx8600-pro-m-2-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/ASX8600PRO-1T-CS-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56692/adata-xpg-asx8600-pro-m-2-nvme-ssd-1tb",
+    "description":"The ADATA XPG ASX8600 Pro M.2 NVME SSD 1TB utilises the ultra-fast PCIe Gen3 x4 interface to deliver sustained peak read/write speeds of up to 3500/3000MB per second, outpacing SATA 6Gb/s by a wide margin. Supporting NVMe 1.3, with SLC caching, DRAM cache buffer, E2E Da…",
+    "price":"129"
+    },
+    {
+    "title":"ADATA XPG ASX8600 Pro M.2 NVME SSD 2TB",
+    "id":"https://www.pccasegear.com/products/57695/adata-xpg-asx8600-pro-m-2-nvme-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/ASX8600PRO-1T-CS-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57695/adata-xpg-asx8600-pro-m-2-nvme-ssd-2tb",
+    "description":"The ADATA XPG ASX8600 Pro M.2 NVME SSD 2TB utilises the ultra-fast PCIe Gen3 x4 interface to deliver sustained peak read/write speeds of up to 3500/3000MB per second, outpacing SATA 6Gb/s by a wide margin. Supporting NVMe 1.3, with SLC caching, DRAM cache buffer, E2E Da…",
+    "price":"229"
+    },
+    {
+    "title":"ADATA XPG Gammix S50 Lite Gen4x4 M.2 2280 SSD 1TB",
+    "id":"https://www.pccasegear.com/products/52163/adata-xpg-gammix-s50-lite-gen4x4-m-2-2280-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1604614227-AGAMMIXS50L-2T-C-thb2.jpg",
+    "image_id":"https://www.pccasegear.com/products/52163/adata-xpg-gammix-s50-lite-gen4x4-m-2-2280-ssd-1tb",
+    "description":"The ADATA XPG Gammix S50 Lite M.2 SSD features a PCIe Gen4x4 interface with sequential read and write speeds of up to 3,900/3,200 MB/s, M.2 2280 form factor, supports NVMe 1.4, next-generation 3D flash, aluminium heatsink, SLC caching, DRAM cache buffer, LDPC and E2E da…",
+    "price":"129"
+    },
+    {
+    "title":"ADATA XPG Gammix S70 Blade PCIe Gen4 M.2 NVME SSD 1TB",
+    "id":"https://www.pccasegear.com/products/56152/adata-xpg-gammix-s70-blade-pcie-gen4-m-2-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1637554123-AGAMMIXS70B-1T-CS-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56152/adata-xpg-gammix-s70-blade-pcie-gen4-m-2-nvme-ssd-1tb",
+    "description":"The ADATA XPG Gammix S70 Blade PCIe Gen4 M.2 NVME SSD 1TB features a PCIe Gen4x4 interface, blazing-fast sequential read/write speeds of up to 7,400/5,500 MB/s, compact M.2 2280 form factor, robust high-temperature resistant aluminium heatsink that reduces temperatures…",
+    "price":"115"
+    },
+    {
+    "title":"ADATA XPG Gammix S70 Blade PCIe Gen4 M.2 NVME SSD 2TB",
+    "id":"https://www.pccasegear.com/products/56153/adata-xpg-gammix-s70-blade-pcie-gen4-m-2-nvme-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1637554123-AGAMMIXS70B-1T-CS-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56153/adata-xpg-gammix-s70-blade-pcie-gen4-m-2-nvme-ssd-2tb",
+    "description":"The ADATA XPG Gammix S70 Blade PCIe Gen4 M.2 NVME SSD 2TB features a PCIe Gen4x4 interface, blazing-fast sequential read/write speeds of up to 7,400/6,400 MB/s, compact M.2 2280 form factor, robust high-temperature resistant aluminium heatsink that reduces temperatures…",
+    "price":"259"
+    },
+    {
+    "title":"ADATA XPG Gammix S70 Blade PCIe Gen4 M.2 NVME SSD 4TB",
+    "id":"https://www.pccasegear.com/products/60331/adata-xpg-gammix-s70-blade-pcie-gen4-m-2-nvme-ssd-4tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/AGAMMIXS70B-4T-CS-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60331/adata-xpg-gammix-s70-blade-pcie-gen4-m-2-nvme-ssd-4tb",
+    "description":"The ADATA XPG Gammix S70 Blade PCIe Gen4 M.2 NVME SSD 4TB features a PCIe Gen4x4 interface, blazing-fast sequential read/write speeds of up to 7,400/6,300 MB/s, compact M.2 2280 form factor, robust high-temperature resistant aluminium heatsink that reduces temperatures…",
+    "price":"749"
+    },
+    {
+    "title":"ADATA XPG SX8200 Pro M.2 NVMe SSD 512GB",
+    "id":"https://www.pccasegear.com/products/44772/adata-xpg-sx8200-pro-m-2-nvme-ssd-512gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1590018054-ASX8200PNP-1TT-C-thb4.jpg",
+    "image_id":"https://www.pccasegear.com/products/44772/adata-xpg-sx8200-pro-m-2-nvme-ssd-512gb",
+    "description":"The SX8200 Pro M.2 2280 SSD is XPG's fastest SSD to date and is designed for avid PC enthusiasts, gamers, and overclockers. It features an ultra-fast PCIe Gen3x4 interface that offers sustained peak read/write speeds of 3500/3000MB per second, outpacing SATA 6Gb/s by a…",
+    "price":"79"
+    },
+    {
+    "title":"ASUS ROG Strix SQ7 M.2 Gen4 NVMe 1TB SSD Black",
+    "id":"https://www.pccasegear.com/products/60951/asus-rog-strix-sq7-m-2-gen4-nvme-1tb-ssd-black",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/ROG-STRIX-SQ7-1TB-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60951/asus-rog-strix-sq7-m-2-gen4-nvme-1tb-ssd-black",
+    "description":"The ASUS ROG Strix SQ7 M.2 Gen4 NVMe 1TB SSD Black, is an internal solid state drive featuring DRAM buffering and large SLC cache, up to 7000 MB/s maximum file transfer speed, compatible with PC and PlayStation 5, TCG Opal and AES 256-bit encryption, plus NTI Backup Now…",
+    "price":"179"
+    },
+    {
+    "title":"Corsair Force Series MP510B M.2 NVME SSD 480GB",
+    "id":"https://www.pccasegear.com/products/49590/corsair-force-series-mp510b-m-2-nvme-ssd-480gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1586153783-CSSD-F1920GBMP510-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/49590/corsair-force-series-mp510b-m-2-nvme-ssd-480gb",
+    "description":"The Corsair Force Series MP510B M.2 NVME SSD features extreme storage performance that delivers up to 3,480MB/s sequential read and up to 2,000MB/s sequential write speeds, high-speed NVME PCIE GEN3 x4 M.2 interface all in a compact M.2 2280 form factor and is compatibl…",
+    "price":"89"
+    },
+    {
+    "title":"Corsair Force Series MP510B M.2 NVME SSD 960GB",
+    "id":"https://www.pccasegear.com/products/49591/corsair-force-series-mp510b-m-2-nvme-ssd-960gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1586153783-CSSD-F1920GBMP510-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/49591/corsair-force-series-mp510b-m-2-nvme-ssd-960gb",
+    "description":"The Corsair Force Series MP510B M.2 NVME SSD features extreme storage performance that delivers up to 3,480MB/s sequential read and up to 3,000MB/s sequential write speeds, high-speed NVME PCIE GEN3 x4 M.2 interface all in a compact M.2 2280 form factor and is compatibl…",
+    "price":"139"
+    },
+    {
+    "title":"Corsair Force Series MP600 PCIe Gen4 M.2 NVME SSD 1TB",
+    "id":"https://www.pccasegear.com/products/57221/corsair-force-series-mp600-pcie-gen4-m-2-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1644978016-CSSD-F1000GBMP600R2-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57221/corsair-force-series-mp600-pcie-gen4-m-2-nvme-ssd-1tb",
+    "description":"The Corsair Force MP600 Gen4 PCIe x4 NVMe M.2 SSD uses Gen4 PCIe technology with blazing fast sequential read speeds of up to 4,950MB/s and sequential write speeds of up to 4,000MB/s. High-density 3D TLC NAND flash memory provides an ideal mix of performance, endurance,…",
+    "price":"149"
+    },
+    {
+    "title":"Corsair MP600 GS PCIe Gen4 M.2 NVME SSD 1TB",
+    "id":"https://www.pccasegear.com/products/60110/corsair-mp600-gs-pcie-gen4-m-2-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1667794903-CSSD-F0500GBMP600GS-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60110/corsair-mp600-gs-pcie-gen4-m-2-nvme-ssd-1tb",
+    "description":"The Corsair MP600 GS PCIe Gen4 M.2 NVME SSD 1TB features a sequential read/write speed of up to 4,800/3,900MB/s, PCI-E Gen4 x4 interface, M.2 2280 form factor, 600TBW, high-density 3D TLC NAND, AES 256-bit encryption and is suitable for desktop and laptops.…",
+    "price":"139"
+    },
+    {
+    "title":"Corsair MP600 GS PCIe Gen4 M.2 NVME SSD 2TB",
+    "id":"https://www.pccasegear.com/products/60114/corsair-mp600-gs-pcie-gen4-m-2-nvme-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1667794903-CSSD-F0500GBMP600GS-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60114/corsair-mp600-gs-pcie-gen4-m-2-nvme-ssd-2tb",
+    "description":"The Corsair MP600 GS PCIe Gen4 M.2 NVME SSD 2TB features a sequential read/write speed of up to 4,800/4,500MB/s, PCI-E Gen4 x4 interface, M.2 2280 form factor, 1200TBW, high-density 3D TLC NAND, AES 256-bit encryption and is suitable for desktop and laptops.…",
+    "price":"209"
+    },
+    {
+    "title":"Corsair MP600 GS PCIe Gen4 M.2 NVME SSD 500GB",
+    "id":"https://www.pccasegear.com/products/60111/corsair-mp600-gs-pcie-gen4-m-2-nvme-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1667794903-CSSD-F0500GBMP600GS-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60111/corsair-mp600-gs-pcie-gen4-m-2-nvme-ssd-500gb",
+    "description":"The Corsair MP600 GS PCIe Gen4 M.2 NVME SSD 500GB features a sequential read/write speed of up to 4,800/3,500MB/s, PCI-E Gen4 x4 interface, M.2 2280 form factor, 300TBW, high-density 3D TLC NAND, AES 256-bit encryption and is suitable for desktop and laptops.…",
+    "price":"89"
+    },
+    {
+    "title":"Corsair MP600 Pro LPX PCIe Gen4 M.2 NVMe SSD 1TB",
+    "id":"https://www.pccasegear.com/products/58134/corsair-mp600-pro-lpx-pcie-gen4-m-2-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/CSSD-F1000GBMP600PLP-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/58134/corsair-mp600-pro-lpx-pcie-gen4-m-2-nvme-ssd-1tb",
+    "description":"The Corsair MP600 Pro LPX PCIe Gen4 M.2 NVMe SSD 1TB provides extreme storage performance, using Gen4x4 PCIe technology to achieve fast sequential read and write speeds of up to 7,100/5,800MB/s. It features an M.2 2280 form factor, built-in low profile aluminium heatspe…",
+    "price":"169"
+    },
+    {
+    "title":"Corsair MP600 Pro NH PCIe Gen4 M.2 NVME SSD 1TB",
+    "id":"https://www.pccasegear.com/products/60188/corsair-mp600-pro-nh-pcie-gen4-m-2-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1667801179-CSSD-F0500GBMP600PNH-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60188/corsair-mp600-pro-nh-pcie-gen4-m-2-nvme-ssd-1tb",
+    "description":"The Corsair MP600 Pro NH PCIe Gen4 M.2 NVME SSD 1TB features a sequential read/write speed of up to 7,000/5,700MB/s, PCI-E Gen4 x4 interface, M.2 2280 form factor, 700TBW, high-density 3D TLC NAND and AES 256-bit encryption.…",
+    "price":"149"
+    },
+    {
+    "title":"Corsair MP600 Pro NH PCIe Gen4 M.2 NVME SSD 2TB",
+    "id":"https://www.pccasegear.com/products/60113/corsair-mp600-pro-nh-pcie-gen4-m-2-nvme-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1667801179-CSSD-F0500GBMP600PNH-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60113/corsair-mp600-pro-nh-pcie-gen4-m-2-nvme-ssd-2tb",
+    "description":"The Corsair MP600 Pro NH PCIe Gen4 M.2 NVME SSD 2TB features a sequential read/write speed of up to 7,000/5,700MB/s, PCI-E Gen4 x4 interface, M.2 2280 form factor, 1400TBW, high-density 3D TLC NAND and AES 256-bit encryption.…",
+    "price":"299"
+    },
+    {
+    "title":"Corsair MP600 Pro NH PCIe Gen4 M.2 NVME SSD 4TB",
+    "id":"https://www.pccasegear.com/products/60115/corsair-mp600-pro-nh-pcie-gen4-m-2-nvme-ssd-4tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1667801179-CSSD-F0500GBMP600PNH-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60115/corsair-mp600-pro-nh-pcie-gen4-m-2-nvme-ssd-4tb",
+    "description":"The Corsair MP600 Pro NH PCIe Gen4 M.2 NVME SSD 4TB features a sequential read/write speed of up to 7,000/6,500MB/s, PCI-E Gen4 x4 interface, M.2 2280 form factor, 3000TBW, high-density 3D TLC NAND and AES 256-bit encryption.…",
+    "price":"819"
+    },
+    {
+    "title":"Corsair MP600 Pro NH PCIe Gen4 M.2 NVME SSD 500GB",
+    "id":"https://www.pccasegear.com/products/60112/corsair-mp600-pro-nh-pcie-gen4-m-2-nvme-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1667801179-CSSD-F0500GBMP600PNH-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60112/corsair-mp600-pro-nh-pcie-gen4-m-2-nvme-ssd-500gb",
+    "description":"The Corsair MP600 Pro NH PCIe Gen4 M.2 NVME SSD 500GB features a sequential read/write speed of up to 6,600/3,600MB/s, PCI-E Gen4 x4 interface, M.2 2280 form factor, 350TBW, high-density 3D TLC NAND and AES 256-bit encryption.…",
+    "price":"115"
+    },
+    {
+    "title":"Corsair MP600 Pro NH PCIe Gen4 M.2 NVME SSD 8TB",
+    "id":"https://www.pccasegear.com/products/60116/corsair-mp600-pro-nh-pcie-gen4-m-2-nvme-ssd-8tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1667801179-CSSD-F0500GBMP600PNH-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60116/corsair-mp600-pro-nh-pcie-gen4-m-2-nvme-ssd-8tb",
+    "description":"The Corsair MP600 Pro NH PCIe Gen4 M.2 NVME SSD 8TB features a sequential read/write speed of up to 7,000/6,100MB/s, PCI-E Gen4 x4 interface, M.2 2280 form factor, 6000TBW, high-density 3D TLC NAND and AES 256-bit encryption.…",
+    "price":"1649"
+    },
+    {
+    "title":"Crucial BX500 2.5in SATA SSD 1TB",
+    "id":"https://www.pccasegear.com/products/50279/crucial-bx500-2-5in-sata-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1590019871-CT1000BX500SSD1-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/50279/crucial-bx500-2-5in-sata-ssd-1tb",
+    "description":"The Crucial BX500 2.5in SATA SSD 1TB features a sequential read speed of 540MB/s and write speed of 500MB/s to improve overall system responsiveness, and a SATA 6GB/s interface.…",
+    "price":"74"
+    },
+    {
+    "title":"Crucial BX500 2.5in SATA SSD 2TB",
+    "id":"https://www.pccasegear.com/products/50280/crucial-bx500-2-5in-sata-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1590020084-CT2000BX500SSD1-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/50280/crucial-bx500-2-5in-sata-ssd-2tb",
+    "description":"The Crucial BX500 2.5in SATA SSD 2TB features a sequential read speed of 540MB/s and write speed of 500MB/s to improve overall system responsiveness, and a SATA 6GB/s interface.…",
+    "price":"165"
+    },
+    {
+    "title":"Crucial BX500 2.5in SATA SSD 480GB",
+    "id":"https://www.pccasegear.com/products/43719/crucial-bx500-2-5in-sata-ssd-480gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1586155709-CT120BX500SSD1-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/43719/crucial-bx500-2-5in-sata-ssd-480gb",
+    "description":"Ever wonder why your phone responds faster than your computer? It's because your phone runs on flash memory. Add flash to your laptop or desktop computer with the Crucial BX500 SSD, the easiest way to get all the speed of a new computer without the price. Accelerate eve…",
+    "price":"39"
+    },
+    {
+    "title":"Crucial BX500 500GB 3D NAND SATA 2.5-inch SSD",
+    "id":"https://www.pccasegear.com/products/60884/crucial-bx500-500gb-3d-nand-sata-2-5-inch-ssd",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/CT500BX500SSD1-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60884/crucial-bx500-500gb-3d-nand-sata-2-5-inch-ssd",
+    "description":"Accelerate everything with the Crucial BX500 500GB 3D NAND SATA 2.5-inch SSD. Ever wonder why your phone responds faster than your computer? It's because your phone runs on flash memory. Add flash to your laptop or desktop computer with the Crucial BX500 SSD, the easies…",
+    "price":"39"
+    },
+    {
+    "title":"Crucial MX500 2.5in SATA SSD 1TB",
+    "id":"https://www.pccasegear.com/products/41245/crucial-mx500-2-5in-sata-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1586155895-CT1000MX500SSD1-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/41245/crucial-mx500-2-5in-sata-ssd-1tb",
+    "description":"Upgrade with the Crucial MX500 SSD, a drive built on quality, speed, and security that's all backed by helpful service and support. Even if you've never installed an SSD, don't sweat it - Crucial's step-by-step guide walks you through the process to make installation ea…",
+    "price":"89"
+    },
+    {
+    "title":"Crucial MX500 2.5in SATA SSD 250GB",
+    "id":"https://www.pccasegear.com/products/41243/crucial-mx500-2-5in-sata-ssd-250gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1515587007-CT250MX500SSD1-th.jpg",
+    "image_id":"https://www.pccasegear.com/products/41243/crucial-mx500-2-5in-sata-ssd-250gb",
+    "description":"Upgrade with the Crucial MX500 SSD, a drive built on quality, speed, and security that's all backed by helpful service and support. Even if you've never installed an SSD, don't sweat it - Crucial's step-by-step guide walks you through the process to make installation ea…",
+    "price":"39"
+    },
+    {
+    "title":"Crucial MX500 2.5in SATA SSD 4TB",
+    "id":"https://www.pccasegear.com/products/58402/crucial-mx500-2-5in-sata-ssd-4tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/CT4000MX500SSD1-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/58402/crucial-mx500-2-5in-sata-ssd-4tb",
+    "description":"Upgrade with the Crucial MX500 SSD, a drive built on quality, speed, and security that's all backed by helpful service and support. Even if you've never installed an SSD, don't sweat it - Crucial's step-by-step guide walks you through the process to make installation ea…",
+    "price":"369"
+    },
+    {
+    "title":"Crucial MX500 2.5in SATA SSD 500GB",
+    "id":"https://www.pccasegear.com/products/41244/crucial-mx500-2-5in-sata-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1586155895-CT1000MX500SSD1-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/41244/crucial-mx500-2-5in-sata-ssd-500gb",
+    "description":"Upgrade with the Crucial MX500 SSD, a drive built on quality, speed, and security that's all backed by helpful service and support. Even if you've never installed an SSD, don't sweat it - Crucial's step-by-step guide walks you through the process to make installation ea…",
+    "price":"49"
+    },
+    {
+    "title":"Crucial P2 M.2 NVMe SSD 1TB",
+    "id":"https://www.pccasegear.com/products/54638/crucial-p2-m-2-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1624928448-CT1000P2SSD8-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/54638/crucial-p2-m-2-nvme-ssd-1tb",
+    "description":"The Crucial P2 M.2 NVMe SSD 1TB features a sequential read speed of up to 2,400MB/s and write speeds of up to 1,800MB/s and includes SSD management software for performance optimisation, data security and firmware updates.…",
+    "price":"99"
+    },
+    {
+    "title":"Crucial P3 M.2 NVMe 1TB SSD",
+    "id":"https://www.pccasegear.com/products/61129/crucial-p3-m-2-nvme-1tb-ssd",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/CT1000P3SSD8-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61129/crucial-p3-m-2-nvme-1tb-ssd",
+    "description":"The Crucial P3 M.2 NVMe 1TB SSD features a sequential read/write speed of up to 3500/3000MB per second with a capacity of up to 1TB. This SSD supports PCIe 3.0 NVMe technology and is built with 3D NAND inclusions to provide a high-quality SSD.…",
+    "price":"75"
+    },
+    {
+    "title":"Crucial P5 Plus M.2 NVMe Gen4 SSD 1TB",
+    "id":"https://www.pccasegear.com/products/55357/crucial-p5-plus-m-2-nvme-gen4-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1630473020-CT1000P5PSSD8-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55357/crucial-p5-plus-m-2-nvme-gen4-ssd-1tb",
+    "description":"The Crucial P5 M.2 NVMe Gen4 SSD 1TB features a sequential read and write speeds of up to 6,600/5,000MB/s, NVMe PCIe Gen 4 x4 interface, M.2 2280 form factor, 600TB TBW, full hardware-based encryption, dynamic write acceleration, adaptive thermal protection to keep your…",
+    "price":"129"
+    },
+    {
+    "title":"Crucial P5 Plus M.2 NVMe Gen4 SSD 500GB",
+    "id":"https://www.pccasegear.com/products/55356/crucial-p5-plus-m-2-nvme-gen4-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1630473020-CT1000P5PSSD8-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55356/crucial-p5-plus-m-2-nvme-gen4-ssd-500gb",
+    "description":"The Crucial P5 M.2 NVMe Gen4 SSD 500GB features a sequential read and write speeds of up to 6,600/4,000MB/s, NVMe PCIe Gen 4 x4 interface, M.2 2280 form factor, 300TB TBW, full hardware-based encryption, dynamic write acceleration, adaptive thermal protection to keep yo…",
+    "price":"85"
+    },
+    {
+    "title":"Gigabyte Aorus NVMe M.2 Gen4 PCIe 5000E 1TB Solid State Drive",
+    "id":"https://www.pccasegear.com/products/60610/gigabyte-aorus-nvme-m-2-gen4-pcie-5000e-1tb-solid-state-drive",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/AG450E1TB-G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60610/gigabyte-aorus-nvme-m-2-gen4-pcie-5000e-1tb-solid-state-drive",
+    "description":"The Gigabyte Aorus NVMe M.2 Gen4 PCIe 5000E 1TB Solid State Drive features a premium controller with 3D TLC NAND flash, Host Memory Buffer technology, read/write speed of 5,000/4,600 and can support TRIM, SMART and Over-Provision technology. This SSD has a total capacit…",
+    "price":"139"
+    },
+    {
+    "title":"Gigabyte Aorus NVMe M.2 Gen4 PCIe 5000E 500GB Solid State Drive",
+    "id":"https://www.pccasegear.com/products/60609/gigabyte-aorus-nvme-m-2-gen4-pcie-5000e-500gb-solid-state-drive",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/AG450E500G-G-add2.jpg",
+    "image_id":"https://www.pccasegear.com/products/60609/gigabyte-aorus-nvme-m-2-gen4-pcie-5000e-500gb-solid-state-drive",
+    "description":"The Gigabyte Aorus NVMe M.2 Gen4 PCIe 5000E 500GB Solid State Drive features a premium controller with 3D TLC NAND flash, Host Memory Buffer technology, read/write speed of 5,000/3,800 and can support TRIM, SMART and Over-Provision technology. This SSD has a total capac…",
+    "price":"85"
+    },
+    {
+    "title":"Kingston A400 2.5in SATA SSD 240GB",
+    "id":"https://www.pccasegear.com/products/39034/kingston-a400-2-5in-sata-ssd-240gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1586158070-SA400S37-120G-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/39034/kingston-a400-2-5in-sata-ssd-240gb",
+    "description":"Kingston's A400 solid-state drive dramatically improves the responsiveness of your existing system with incredible boot, loading and transfer times compared to mechanical hard drives. Powered by a latest gen controller for read and write speeds up to 500MB/s and 350MB/s…",
+    "price":"25"
+    },
+    {
+    "title":"Kingston A400 2.5in SATA SSD 480GB",
+    "id":"https://www.pccasegear.com/products/39035/kingston-a400-2-5in-sata-ssd-480gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1586158070-SA400S37-120G-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/39035/kingston-a400-2-5in-sata-ssd-480gb",
+    "description":"Kingston's A400 solid-state drive dramatically improves the responsiveness of your existing system with incredible boot, loading and transfer times compared to mechanical hard drives. Powered by a latest gen controller for read and write speeds up to 500MB/s and 450MB/s…",
+    "price":"39"
+    },
+    {
+    "title":"Kingston A400 2.5in SATA SSD 960GB",
+    "id":"https://www.pccasegear.com/products/44406/kingston-a400-2-5in-sata-ssd-960gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1586158070-SA400S37-120G-thb3.jpg",
+    "image_id":"https://www.pccasegear.com/products/44406/kingston-a400-2-5in-sata-ssd-960gb",
+    "description":"Kingston's A400 solid-state drive dramatically improves the responsiveness of your existing system with incredible boot, loading and transfer times compared to mechanical hard drives. Powered by a latest-gen controller for read and write speeds of up to 500MB/s and 450M…",
+    "price":"115"
+    },
+    {
+    "title":"Kingston Fury Renegade M.2 NVMe Gen4 SSD 1TB with Heatsink",
+    "id":"https://www.pccasegear.com/products/60309/kingston-fury-renegade-m-2-nvme-gen4-ssd-1tb-with-heatsink",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SFYRSK_1000G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60309/kingston-fury-renegade-m-2-nvme-gen4-ssd-1tb-with-heatsink",
+    "description":"The Kingston Fury Renegade M.2 NVMe Gen4 SSD 1TB with Heatsink features a sequential read/write speed of up to 7300/6000 MB/s, 1.0PBW, slim M.2 2280 design, low profile graphene aluminium heat spreader and PS5 ready.…",
+    "price":"165"
+    },
+    {
+    "title":"Kingston Fury Renegade M.2 NVMe Gen4 SSD 2TB with Heatsink",
+    "id":"https://www.pccasegear.com/products/60310/kingston-fury-renegade-m-2-nvme-gen4-ssd-2tb-with-heatsink",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SFYRDK_2000G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60310/kingston-fury-renegade-m-2-nvme-gen4-ssd-2tb-with-heatsink",
+    "description":"The Kingston Fury Renegade M.2 NVMe Gen4 SSD 2TB with Heatsink features a sequential read/write speed of up to 7300/7000 MB/s, 2.0PBW, slim M.2 2280 design, low profile graphene aluminium heat spreader and PS5 ready.…",
+    "price":"305"
+    },
+    {
+    "title":"Kingston Fury Renegade M.2 NVMe Gen4 SSD 4TB with Heatsink",
+    "id":"https://www.pccasegear.com/products/60311/kingston-fury-renegade-m-2-nvme-gen4-ssd-4tb-with-heatsink",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SFYRDK_4000G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60311/kingston-fury-renegade-m-2-nvme-gen4-ssd-4tb-with-heatsink",
+    "description":"The Kingston Fury Renegade M.2 NVMe Gen4 SSD 4TB with Heatsink features a sequential read/write speed of up to 7300/3900 MB/s, 4.0PBW, slim M.2 2280 design, low profile graphene aluminium heat spreader and PS5 ready.…",
+    "price":"679"
+    },
+    {
+    "title":"Kingston Fury Renegade M.2 NVMe Gen4 SSD 500GB with Heatsink",
+    "id":"https://www.pccasegear.com/products/60308/kingston-fury-renegade-m-2-nvme-gen4-ssd-500gb-with-heatsink",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SFYRSK_500G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60308/kingston-fury-renegade-m-2-nvme-gen4-ssd-500gb-with-heatsink",
+    "description":"The Kingston Fury Renegade M.2 NVMe Gen4 SSD 500GB with Heatsink features a sequential read/write speed of up to 7300/3900 MB/s, 500TBW, slim M.2 2280 design, low profile graphene aluminium heat spreader and PS5 ready.…",
+    "price":"125"
+    },
+    {
+    "title":"Kingston KC3000 M.2 NVMe Gen4 SSD 1TB",
+    "id":"https://www.pccasegear.com/products/56424/kingston-kc3000-m-2-nvme-gen4-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SKC3000S-1024G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56424/kingston-kc3000-m-2-nvme-gen4-ssd-1tb",
+    "description":"The Kingston KC3000 M.2 NVMe Gen4 SSD 1TB features a sequential read/write speed of up to 7,000/6,000 MB/s, 800TBW, compact M.2 2280 design, low profile graphene aluminium heat spreader, 3D TLC NAND, and a Phison E18 controller.…",
+    "price":"125"
+    },
+    {
+    "title":"Kingston KC3000 M.2 NVMe Gen4 SSD 2TB",
+    "id":"https://www.pccasegear.com/products/56425/kingston-kc3000-m-2-nvme-gen4-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SKC3000S-1024G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56425/kingston-kc3000-m-2-nvme-gen4-ssd-2tb",
+    "description":"The Kingston KC3000 M.2 NVMe Gen4 SSD 2TB features a sequential read/write speed of up to 7,000/7,000 MB/s, 1.6PBW, compact M.2 2280 design, low profile graphene aluminium heat spreader, 3D TLC NAND, and a Phison E18 controller.…",
+    "price":"249"
+    },
+    {
+    "title":"Kingston KC3000 M.2 NVMe Gen4 SSD 4TB",
+    "id":"https://www.pccasegear.com/products/56426/kingston-kc3000-m-2-nvme-gen4-ssd-4tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SKC3000S-1024G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56426/kingston-kc3000-m-2-nvme-gen4-ssd-4tb",
+    "description":"The Kingston KC3000 M.2 NVMe Gen4 SSD 4TB features a sequential read/write speed of up to 7,000/7,000 MB/s, 3.2PBW, compact M.2 2280 design, low profile graphene aluminium heat spreader, 3D TLC NAND, and a Phison E18 controller.…",
+    "price":"749"
+    },
+    {
+    "title":"Kingston SNV2S M.2 NVMe Gen4 SSD 1TB",
+    "id":"https://www.pccasegear.com/products/59720/kingston-snv2s-m-2-nvme-gen4-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SNV2S_1000G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/59720/kingston-snv2s-m-2-nvme-gen4-ssd-1tb",
+    "description":"The Kingston SNV2S M.2 NVMe Gen4 SSD 1TB features a sequential read/write speed of up to 3500/2800 MB/s, 1.6PBW, compact M.2 2280 design, low profile graphene aluminium heat spreader and 3D TLC NAND.…",
+    "price":"79"
+    },
+    {
+    "title":"Kingston SNV2S M.2 NVMe Gen4 SSD 250GB",
+    "id":"https://www.pccasegear.com/products/59722/kingston-snv2s-m-2-nvme-gen4-ssd-250gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SNV2S_250G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/59722/kingston-snv2s-m-2-nvme-gen4-ssd-250gb",
+    "description":"The Kingston SNV2S M.2 NVMe Gen4 SSD 250GB features a sequential read/write speed of up to 3500/2800 MB/s, 1.6PBW, compact M.2 2280 design, low profile graphene aluminium heat spreader and 3D TLC NAND.…",
+    "price":"35"
+    },
+    {
+    "title":"Kingston SNV2S M.2 NVMe Gen4 SSD 2TB",
+    "id":"https://www.pccasegear.com/products/59723/kingston-snv2s-m-2-nvme-gen4-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SNV2S_2000G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/59723/kingston-snv2s-m-2-nvme-gen4-ssd-2tb",
+    "description":"The Kingston SNV2S M.2 NVMe Gen4 SSD 2TB features a sequential read/write speed of up to 3500/2800 MB/s, 1.6PBW, compact M.2 2280 design, low profile graphene aluminium heat spreader and 3D TLC NAND.…",
+    "price":"155"
+    },
+    {
+    "title":"Kingston SNV2S M.2 NVMe Gen4 SSD 500GB",
+    "id":"https://www.pccasegear.com/products/59721/kingston-snv2s-m-2-nvme-gen4-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SNV2S_500G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/59721/kingston-snv2s-m-2-nvme-gen4-ssd-500gb",
+    "description":"The Kingston SNV2S M.2 NVMe Gen4 SSD 500GB features a sequential read/write speed of up to 3500/2800 MB/s, 1.6PBW, compact M.2 2280 design, low profile graphene aluminium heat spreader and 3D TLC NAND.…",
+    "price":"49"
+    },
+    {
+    "title":"MSI Spatium M390 M.2 NVMe SSD 250GB",
+    "id":"https://www.pccasegear.com/products/57786/msi-spatium-m390-m-2-nvme-ssd-250gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1652669830-SPATIUM-M390-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57786/msi-spatium-m390-m-2-nvme-ssd-250gb",
+    "description":"The MSI Spatium M390 M.2 NVMe SSD features a 250GB capacity, sequential read and write speed of up to 3,300/1,200MB/s, PCIe Gen3x4 NVMe interface, M.2 2280 form factor, 150TB TBW, 3D NAND flash memory, PHISON E15T controller, built-in data security and error-correction,…",
+    "price":"55"
+    },
+    {
+    "title":"MSI Spatium M390 M.2 NVMe SSD 500GB",
+    "id":"https://www.pccasegear.com/products/57783/msi-spatium-m390-m-2-nvme-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1652669895-SPATIUM-M390-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57783/msi-spatium-m390-m-2-nvme-ssd-500gb",
+    "description":"The MSI Spatium M390 M.2 NVMe SSD features a 500GB capacity, sequential read and write speed of up to 3,300/2,300MB/s, PCIe Gen3x4 NVMe interface, M.2 2280 form factor, 200TB TBW, 3D NAND flash memory, PHISON E15T controller, built-in data security and error-correction,…",
+    "price":"79"
+    },
+    {
+    "title":"MSI Spatium M450 M.2 NVMe Gen4 SSD 1TB",
+    "id":"https://www.pccasegear.com/products/57787/msi-spatium-m450-m-2-nvme-gen4-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SPATIUM-M450-1000G-add4.jpg",
+    "image_id":"https://www.pccasegear.com/products/57787/msi-spatium-m450-m-2-nvme-gen4-ssd-1tb",
+    "description":"The MSI Spatium M450 M.2 NVMe Gen4 SSD features a sequential read and write speed of up to 3,600/3,000MB/s, PCIe Gen4x4 NVMe 1.4 interface, M.2 2280 form factor, 600TB TBW, 3D NAND flash memory, PHISON E19T controller, built-in data security and error-correction, and is…",
+    "price":"159"
+    },
+    {
+    "title":"MSI Spatium M450 M.2 NVMe Gen4 SSD 500GB",
+    "id":"https://www.pccasegear.com/products/57788/msi-spatium-m450-m-2-nvme-gen4-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1652670032-SPATIUM-M450-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57788/msi-spatium-m450-m-2-nvme-gen4-ssd-500gb",
+    "description":"The MSI Spatium M450 M.2 NVMe Gen4 SSD features a sequential read and write speed of up to 3,600/2,300MB/s, PCIe Gen4x4 NVMe 1.4 interface, M.2 2280 form factor, 600TB TBW, 3D NAND flash memory, PHISON E19T controller, built-in data security and error-correction, and is…",
+    "price":"75"
+    },
+    {
+    "title":"MSI Spatium M460 PCIe 4.0 NVMe M.2 SSD 1TB",
+    "id":"https://www.pccasegear.com/products/60231/msi-spatium-m460-pcie-4-0-nvme-m-2-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SPATIUM-M460-1TB-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60231/msi-spatium-m460-pcie-4-0-nvme-m-2-ssd-1tb",
+    "description":"The MSI Spatium M460 M.2 NVMe Gen4 SSD 1TB features a sequential read and write speed of up to 5,000/4,500MB/s, PCIe Gen4x4 NVMe 1.3 interface, M.2 2280 form factor, 1600TB TBW, 3D NAND flash memory, PHISON E16 controller, built-in data security and error-correction, an…",
+    "price":"179"
+    },
+    {
+    "title":"MSI Spatium M460 PCIe 4.0 NVMe M.2 SSD 2TB with Heatsink",
+    "id":"https://www.pccasegear.com/products/60233/msi-spatium-m460-pcie-4-0-nvme-m-2-ssd-2tb-with-heatsink",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SPATIUM-M460-2TB-HS-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60233/msi-spatium-m460-pcie-4-0-nvme-m-2-ssd-2tb-with-heatsink",
+    "description":"The MSI Spatium M460 M.2 NVMe Gen4 SSD 2TB features a sequential read and write speed of up to 5,000/4,500MB/s, PCIe Gen4x4 NVMe 1.3 interface, M.2 2280 form factor, 1600TB TBW, 3D NAND flash memory, PHISON E16 controller, built-in data security and error-correction, in…",
+    "price":"309"
+    },
+    {
+    "title":"MSI Spatium M461 M.2 NVMe SSD 1TB",
+    "id":"https://www.pccasegear.com/products/61682/msi-spatium-m461-m-2-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SPATIUM-M461-1TB-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61682/msi-spatium-m461-m-2-nvme-ssd-1tb",
+    "description":"The MSI Spatium M461 M.2 NVMe SSD features a 1TB capacity, sequential read and write speed of up to 5000/4200MB/s, PCIe Gen4x4 NVMe interface, M.2 2280 form factor, up to 900TBW, 3D NAND flash memory, built-in data security and error-correction, and is suitable for desk…",
+    "price":"99"
+    },
+    {
+    "title":"MSI Spatium M461 M.2 NVMe SSD 500GB",
+    "id":"https://www.pccasegear.com/products/61681/msi-spatium-m461-m-2-nvme-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/SPATIUM-M461-500G-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61681/msi-spatium-m461-m-2-nvme-ssd-500gb",
+    "description":"The MSI Spatium M461 M.2 NVMe SSD features a 500GB capacity, sequential read and write speed of up to 5000/4200MB/s, PCIe Gen4x4 NVMe interface, M.2 2280 form factor, up to 900TBW, 3D NAND flash memory, built-in data security and error-correction, and is suitable for de…",
+    "price":"69"
+    },
+    {
+    "title":"MSI Spatium M461 PCIe 4.0 NVMe M.2 SSD 2TB",
+    "id":"https://www.pccasegear.com/products/61683/msi-spatium-m461-pcie-4-0-nvme-m-2-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1680591569-SPATIUM-M461-2TB-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61683/msi-spatium-m461-pcie-4-0-nvme-m-2-ssd-2tb",
+    "description":"The MSI Spatium M461 PCIe 4.0 NVMe M.2 SSD 2TB features a sequential read and write speed of up to 5000/4200 MB/s, PCIe Gen4x4 NVMe 1.4 interface, M.2 2280 form factor, 450TB TBW, 3D NAND flash memory, PHISON E21T controller, built-in data security and error-correction,…",
+    "price":"219"
+    },
+    {
+    "title":"MSI Spatium M461 PCIe 4.0 NVMe M.2 SSD 4TB",
+    "id":"https://www.pccasegear.com/products/61684/msi-spatium-m461-pcie-4-0-nvme-m-2-ssd-4tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1680590297-SPATIUM-M461-4TB-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61684/msi-spatium-m461-pcie-4-0-nvme-m-2-ssd-4tb",
+    "description":"The MSI Spatium M461 PCIe 4.0 NVMe M.2 SSD 4TB features a sequential read and write speed of up to 5000/4200 MB/s, PCIe Gen4x4 NVMe 1.4 interface, M.2 2280 form factor, 900TB TBW, 3D NAND flash memory, PHISON E21T controller, built-in data security and error-correction,…",
+    "price":"469"
+    },
+    {
+    "title":"MSI Spatium M480 M.2 NVMe Gen4 SSD 1TB",
+    "id":"https://www.pccasegear.com/products/55516/msi-spatium-m480-m-2-nvme-gen4-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1631673531-SPATIUM-M480-1TB-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55516/msi-spatium-m480-m-2-nvme-gen4-ssd-1tb",
+    "description":"The MSI Spatium M480 M.2 NVMe Gen4 SSD 1TB features a sequential read and write speed of up to 7,000/5,500MB/s, PCIe Gen4x4 NVMe 1.4 interface, M.2 2280 form factor, 700TB TBW, 3D NAND flash memory, PHISON E18 controller, built-in data security and error-correction, and…",
+    "price":"199"
+    },
+    {
+    "title":"MSI Spatium M480 M.2 NVMe Gen4 SSD 2TB",
+    "id":"https://www.pccasegear.com/products/55517/msi-spatium-m480-m-2-nvme-gen4-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1631673531-SPATIUM-M480-1TB-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55517/msi-spatium-m480-m-2-nvme-gen4-ssd-2tb",
+    "description":"The MSI Spatium M480 M.2 NVMe Gen4 SSD 2TB features a sequential read and write speed of up to 7,000/6,800MB/s, PCIe Gen4x4 NVMe 1.4 interface, M.2 2280 form factor, 1400TB TBW, 3D NAND flash memory, PHISON E18 controller, built-in data security and error-correction, an…",
+    "price":"429"
+    },
+    {
+    "title":"PNY CS3040 M.2 NVMe Gen4 SSD 2TB",
+    "id":"https://www.pccasegear.com/products/52772/pny-cs3040-m-2-nvme-gen4-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1607573126-M280CS3040-2TB-RB-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/52772/pny-cs3040-m-2-nvme-gen4-ssd-2tb",
+    "description":"The PNY CS3040 M.2 NVMe Gen4 SSD 2TB features a sequential read and write speed of 5600/4300MB/s, M.2 form factor, PCI-E 4.0 x4 NVMe interface, and is 3D flash memory supported.…",
+    "price":"229"
+    },
+    {
+    "title":"Samsung 870 EVO 2.5in SATA SSD 250GB",
+    "id":"https://www.pccasegear.com/products/53097/samsung-870-evo-2-5in-sata-ssd-250gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1611037576-MZ-77E250BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/53097/samsung-870-evo-2-5in-sata-ssd-250gb",
+    "description":"Designed for everyday computing, the Samsung 870 EVO is powered by Samsung's latest V-NAND technology and a robust algorithm-based Samsung controller to handle the workloads of mainstream PCs and laptops. It features sequential read speeds of up to 560MB/s and sequentia…",
+    "price":"64"
+    },
+    {
+    "title":"Samsung 870 EVO 2.5in SATA SSD 2TB",
+    "id":"https://www.pccasegear.com/products/53094/samsung-870-evo-2-5in-sata-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1611038320-MZ-77E2T0BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/53094/samsung-870-evo-2-5in-sata-ssd-2tb",
+    "description":"Designed for everyday computing, the Samsung 870 EVO is powered by Samsung's latest V-NAND technology and a robust algorithm-based Samsung controller to handle the workloads of mainstream PCs and laptops. It features sequential read speeds of up to 560MB/s and sequentia…",
+    "price":"249"
+    },
+    {
+    "title":"Samsung 870 QVO 2.5in SATA SSD 1TB",
+    "id":"https://www.pccasegear.com/products/50687/samsung-870-qvo-2-5in-sata-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1594702821-MZ-77Q1T0BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/50687/samsung-870-qvo-2-5in-sata-ssd-1tb",
+    "description":"On sale! (normally 119) The Samsung 870 QVO 2.5in SATA SSD 1TB features a sequential read and write speed of 560/530MB, achieving the maximum SATA interface, Intelligent TurboWrite, 360 TBW, and can be managed with the Samsung Magician software.…",
+    "price":"89"
+    },
+    {
+    "title":"Samsung 870 QVO 2.5in SATA SSD 2TB",
+    "id":"https://www.pccasegear.com/products/50721/samsung-870-qvo-2-5in-sata-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1594706052-MZ-77Q2T0BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/50721/samsung-870-qvo-2-5in-sata-ssd-2tb",
+    "description":"The Samsung 870 QVO 2.5in SATA SSD 2TB features a sequential read and write speed of 560/530MB/s, achieving the maximum SATA interface, Intelligent TurboWrite, 720 TBW, and can be managed with the Samsung Magician software.…",
+    "price":"229"
+    },
+    {
+    "title":"Samsung 870 QVO 2.5in SATA SSD 4TB",
+    "id":"https://www.pccasegear.com/products/50720/samsung-870-qvo-2-5in-sata-ssd-4tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1594706408-MZ-77Q4T0BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/50720/samsung-870-qvo-2-5in-sata-ssd-4tb",
+    "description":"The Samsung 870 QVO 2.5in SATA SSD 4TB features a sequential read and write speed of 560/530MB/s, achieving the maximum SATA interface, Intelligent TurboWrite, 1,440 TBW, and can be managed with the Samsung Magician software.…",
+    "price":"399"
+    },
+    {
+    "title":"Samsung 870 QVO 2.5in SATA SSD 8TB",
+    "id":"https://www.pccasegear.com/products/50719/samsung-870-qvo-2-5in-sata-ssd-8tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1594706666-MZ-77Q8T0BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/50719/samsung-870-qvo-2-5in-sata-ssd-8tb",
+    "description":"The Samsung 870 QVO 2.5in SATA SSD 8TB features a sequential read and write speed of 560/530MB/s, achieving the maximum SATA interface, Intelligent TurboWrite, 2,880 TBW, and can be managed with the Samsung Magician software.…",
+    "price":"749"
+    },
+    {
+    "title":"Samsung 980 M.2 PCI-E NVMe SSD 1TB",
+    "id":"https://www.pccasegear.com/products/53554/samsung-980-m-2-pci-e-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1616564319-MZ-V8V1T0BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/53554/samsung-980-m-2-pci-e-nvme-ssd-1tb",
+    "description":"The Samsung 980 M.2 PCI-E NVMe SSD 1TB features a sequential read and write speed of up to 3500/3000MB/s, M.2 2280 form factor, PCI-E 3.0 x4, NVMe 1.4 interface, 600 TBW, consistent high performance with Full Power Mode, reliable thermal control, dynamic thermal guard t…",
+    "price":"135"
+    },
+    {
+    "title":"Samsung 980 M.2 PCI-E NVMe SSD 500GB",
+    "id":"https://www.pccasegear.com/products/53555/samsung-980-m-2-pci-e-nvme-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1616563956-MZ-V8V500BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/53555/samsung-980-m-2-pci-e-nvme-ssd-500gb",
+    "description":"On sale! (normally 79) The Samsung 980 M.2 PCI-E NVMe SSD 500GB features a sequential read and write speed of up to 3100/2600MB/s, M.2 2280 form factor, PCI-E 3.0 x4, NVMe 1.4 interface, 300 TBW, consistent high performance with Full Power Mode, reliable thermal contro…",
+    "price":"49"
+    },
+    {
+    "title":"Samsung 980 PRO M.2 PCI-E Gen4 NVMe SSD 1TB",
+    "id":"https://www.pccasegear.com/products/51794/samsung-980-pro-m-2-pci-e-gen4-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1600932328-MZ-V8P1T0BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/51794/samsung-980-pro-m-2-pci-e-gen4-nvme-ssd-1tb",
+    "description":"The Samsung 980 PRO M.2 NVMe SSD 1TB features a sequential read and write speeds of up to 7,000/5,000MB/s - achieving max speeds on the PCI-E 4.0 interface, compact M.2 2280 form factor, reliable thermal control and smart thermal solution, Intelligent TurboWrite, and ca…",
+    "price":"179"
+    },
+    {
+    "title":"Samsung 980 PRO M.2 PCI-E Gen4 NVMe SSD 1TB with Heatsink",
+    "id":"https://www.pccasegear.com/products/56060/samsung-980-pro-m-2-pci-e-gen4-nvme-ssd-1tb-with-heatsink",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1635996475-MZ-V8P1T0CW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56060/samsung-980-pro-m-2-pci-e-gen4-nvme-ssd-1tb-with-heatsink",
+    "description":"The Samsung 980 PRO M.2 PCI-E Gen4 NVMe SSD 1TB with Heatsink features sequential read and write speeds of up to 7,000/5,000MB/s, PCI-E 4.0 interface, is backwards compatible with PCI-E 3.0, integrated heatsink that disperses heat to maintain speed, power efficiency and…",
+    "price":"199"
+    },
+    {
+    "title":"Samsung 980 PRO M.2 PCI-E Gen4 NVMe SSD 2TB",
+    "id":"https://www.pccasegear.com/products/53266/samsung-980-pro-m-2-pci-e-gen4-nvme-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1612742885-MZ-V8P2T0BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/53266/samsung-980-pro-m-2-pci-e-gen4-nvme-ssd-2tb",
+    "description":"The Samsung 980 PRO M.2 NVMe SSD 2TB features a sequential read and write speeds of up to 7,000/5,100MB/s - achieving max speeds on the PCI-E 4.0 interface, compact M.2 2280 form factor, reliable thermal control and smart thermal solution, Intelligent TurboWrite, and ca…",
+    "price":"319"
+    },
+    {
+    "title":"Samsung 980 PRO M.2 PCI-E Gen4 NVMe SSD 2TB with Heatsink",
+    "id":"https://www.pccasegear.com/products/56061/samsung-980-pro-m-2-pci-e-gen4-nvme-ssd-2tb-with-heatsink",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1635996475-MZ-V8P1T0CW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56061/samsung-980-pro-m-2-pci-e-gen4-nvme-ssd-2tb-with-heatsink",
+    "description":"The Samsung 980 PRO M.2 PCI-E Gen4 NVMe SSD 2TB with Heatsink features sequential read and write speeds of up to 7,000/5,000MB/s, PCI-E 4.0 interface, is backwards compatible with PCI-E 3.0, integrated heatsink that disperses heat to maintain speed, power efficiency and…",
+    "price":"329"
+    },
+    {
+    "title":"Samsung 980 PRO M.2 PCI-E Gen4 NVMe SSD 500GB",
+    "id":"https://www.pccasegear.com/products/51795/samsung-980-pro-m-2-pci-e-gen4-nvme-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1600931470-MZ-V8P500BW-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/51795/samsung-980-pro-m-2-pci-e-gen4-nvme-ssd-500gb",
+    "description":"The Samsung 980 PRO M.2 NVMe SSD 500GB features a sequential read and write speeds of up to 6,900/5,000MB/s - achieving max speeds on the PCI-E 4.0 interface, compact M.2 2280 form factor, reliable thermal control and smart thermal solution, Intelligent TurboWrite, and…",
+    "price":"119"
+    },
+    {
+    "title":"Samsung 990 PRO M.2 NVMe SSD 1TB",
+    "id":"https://www.pccasegear.com/products/60035/samsung-990-pro-m-2-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/MZ-V9P1T0BW-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60035/samsung-990-pro-m-2-nvme-ssd-1tb",
+    "description":"The Samsung 990 PRO M.2 NVMe SSD 1TB features a sequential read and write speeds of up to 7,450/6,900MB/s - achieving max speeds on the PCI-E 4.0 interface, compact M.2 2280 form factor, reliable thermal control and smart thermal solution, Intelligent TurboWrite, and ca…",
+    "price":"239"
+    },
+    {
+    "title":"Samsung 990 PRO M.2 NVMe SSD 2TB",
+    "id":"https://www.pccasegear.com/products/60036/samsung-990-pro-m-2-nvme-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/MZ-V9P2T0BW-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/60036/samsung-990-pro-m-2-nvme-ssd-2tb",
+    "description":"The Samsung 990 PRO M.2 NVMe SSD 2TB features a sequential read and write speeds of up to 7,450/6,900MB/s - achieving max speeds on the PCI-E 4.0 interface, compact M.2 2280 form factor, reliable thermal control and smart thermal solution, Intelligent TurboWrite, and ca…",
+    "price":"389"
+    },
+    {
+    "title":"Team Cardea A440 M.2 PCIe Gen4 NVMe SSD 1TB",
+    "id":"https://www.pccasegear.com/products/56998/team-cardea-a440-m-2-pcie-gen4-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/TM8FPZ002T0C327-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/56998/team-cardea-a440-m-2-pcie-gen4-nvme-ssd-1tb",
+    "description":"On sale! (normally 215) The Team Cardea A440 M.2 PCIe Gen4 NVMe SSD 1TB features a sequential read/write speed of up to 7,000/5,500MB/s, supports the latest PCIe Gen 4 NVMe 1.4 interface, 700 TBW, features two patented heat sinks, and 1TB of capacity.…",
+    "price":"149"
+    },
+    {
+    "title":"Team Cardea A440 M.2 PCIe Gen4 NVMe SSD 2TB",
+    "id":"https://www.pccasegear.com/products/54734/team-cardea-a440-m-2-pcie-gen4-nvme-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/TM8FPZ002T0C327-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/54734/team-cardea-a440-m-2-pcie-gen4-nvme-ssd-2tb",
+    "description":"On sale! (normally 379) The Team Cardea A440 M.2 PCIe Gen4 NVMe SSD 2TB features a sequential read/write speed of up to 7,000/6,900MB/s, supports the latest PCIe Gen 4 NVMe 1.4 interface, 1,400 TBW, features two patented heat sinks, and 2TB of capacity.…",
+    "price":"299"
+    },
+    {
+    "title":"Team Cardea Z44L M.2 PCIe Gen4 NVMe SSD 1TB",
+    "id":"https://www.pccasegear.com/products/57314/team-cardea-z44l-m-2-pcie-gen4-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1647385376-TM8FPL001T0C127-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57314/team-cardea-z44l-m-2-pcie-gen4-nvme-ssd-1tb",
+    "description":"The Team Cardea Z44L M.2 PCIe Gen4 NVMe SSD 1TB features a sequential read/write speed of up to 3,500/3,000MB/s, supports the latest NVMe 1.4 interface, 600TBW, ultra-thin graphene heat spreader and can be managed via Team's SSD S.M.A.R.T tool.…",
+    "price":"109"
+    },
+    {
+    "title":"Team Cardea Z44L M.2 PCIe Gen4 NVMe SSD 500GB",
+    "id":"https://www.pccasegear.com/products/57315/team-cardea-z44l-m-2-pcie-gen4-nvme-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1647385376-TM8FPL001T0C127-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57315/team-cardea-z44l-m-2-pcie-gen4-nvme-ssd-500gb",
+    "description":"The Team Cardea Z44L M.2 PCIe Gen4 NVMe SSD 500GB features a sequential read/write speed of up to 3,300/2,400MB/s, supports the latest NVMe 1.4 interface, 300TBW, ultra-thin graphene heat spreader and can be managed via Team's SSD S.M.A.R.T tool.…",
+    "price":"59"
+    },
+    {
+    "title":"Team Cardea Zero Z440 M.2 NVME PCIe Gen4 SSD 1TB",
+    "id":"https://www.pccasegear.com/products/48610/team-cardea-zero-z440-m-2-nvme-pcie-gen4-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1653637973-6925758618540-thb2.jpg",
+    "image_id":"https://www.pccasegear.com/products/48610/team-cardea-zero-z440-m-2-nvme-pcie-gen4-ssd-1tb",
+    "description":"T-FORCE CARDEA ZERO Z440 1TB M.2 NVMe PCIe Solid State Drive uses the latest and fastest PCIe Gen4 x4 interface and complies with the NVMe 1.3 standard. The sequential read/write speed can reach up to 5,000/4,400 MB/s. Less than 0.2mm thick, the patented graphene copper…",
+    "price":"109"
+    },
+    {
+    "title":"Team Cardea Zero Z440 M.2 NVME PCIe Gen4 SSD 2TB",
+    "id":"https://www.pccasegear.com/products/48611/team-cardea-zero-z440-m-2-nvme-pcie-gen4-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1653637973-6925758618540-thb2.jpg",
+    "image_id":"https://www.pccasegear.com/products/48611/team-cardea-zero-z440-m-2-nvme-pcie-gen4-ssd-2tb",
+    "description":"T-FORCE CARDEA ZERO Z440 2TB M.2 NVMe PCIe Solid State Drive uses the latest and fastest PCIe Gen4 x4 interface and complies with the NVMe 1.3 standard. The sequential read/write speed can reach up to 5,000/4,400 MB/s. Less than 0.2mm thick, the patented graphene copper…",
+    "price":"199"
+    },
+    {
+    "title":"Team MP33 Pro M.2 NVMe SSD 1TB",
+    "id":"https://www.pccasegear.com/products/58058/team-mp33-pro-m-2-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1655448310-TM8FPD001T0C101-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/58058/team-mp33-pro-m-2-nvme-ssd-1tb",
+    "description":"The Team MP33 Pro M.2 NVMe SSD 1TB features a read/write speed of up to 2,100/1,700 MB/s, PCI-e 3.0 x4 with NVMe 1.3 interface, stable and durable performance and 600TB TBW.…",
+    "price":"75"
+    },
+    {
+    "title":"Team MP34 M.2 NVMe SSD 1TB",
+    "id":"https://www.pccasegear.com/products/49703/team-mp34-m-2-nvme-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1623389953-TM8FP4001T0C101-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/49703/team-mp34-m-2-nvme-ssd-1tb",
+    "description":"The Team MP34 M.2 NVMe SSD features a new generation of 3D flash memory, improving performance and durability, up to 3,400Mb/s read and 2,900MB/s write speed, PCIe interface and supports the latest NVMe 1.3 protocol and next generation platforms of Intel and AMD. Suitab…",
+    "price":"89"
+    },
+    {
+    "title":"Team MP34 M.2 NVMe SSD 2TB",
+    "id":"https://www.pccasegear.com/products/55208/team-mp34-m-2-nvme-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1623389953-TM8FP4001T0C101-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/55208/team-mp34-m-2-nvme-ssd-2tb",
+    "description":"The Team MP34 M.2 NVMe SSD features a new generation of 3D flash memory, improving performance and durability, up to 3,500Mb/s read and 2,900MB/s write speed, PCIe interface and supports the latest NVMe 1.3 protocol and next generation platforms of Intel and AMD. Suitab…",
+    "price":"179"
+    },
+    {
+    "title":"Team T-Create Classic M.2 NVMe PCIe 2TB SSD",
+    "id":"https://www.pccasegear.com/products/61030/team-t-create-classic-m-2-nvme-pcie-2tb-ssd",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/TM8FPE002T0C611-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61030/team-t-create-classic-m-2-nvme-pcie-2tb-ssd",
+    "description":"The Team T-Create Classic M.2 NVMe PCIe SSD 2TB features a sequential read and write speed of up to 2,100/1,600MB/s, PCI-E Gen 3x4 interface with NVMe 1.3, M.2 2280 form factor and 1,000 TBW. Specially designed for creators, the T-CREATE CLASSIC PCIe 3.0 SSD adopts a tr…",
+    "price":"129"
+    },
+    {
+    "title":"Team T-Force 2.5in Delta Max Lite RGB SSD 512GB White with Cable",
+    "id":"https://www.pccasegear.com/products/61419/team-t-force-2-5in-delta-max-lite-rgb-ssd-512gb-white-with-cable",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1679970347-T253TM512G0C425-thb.png",
+    "image_id":"https://www.pccasegear.com/products/61419/team-t-force-2-5in-delta-max-lite-rgb-ssd-512gb-white-with-cable",
+    "description":"The Team T-Force 2.5in Delta Max Lite RGB SSD 512GB White features a sequential read and write speed of 550/500 MB/s, 400TBW, is equipped with 3D NAND flash memory, Wear-Leveling technology, built-in ECC for reliable gaming storage and comes with a cable.…",
+    "price":"89"
+    },
+    {
+    "title":"Team T-Force 2.5in Delta Max Lite RGB SSD 512GB with Cable",
+    "id":"https://www.pccasegear.com/products/61418/team-t-force-2-5in-delta-max-lite-rgb-ssd-512gb-with-cable",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1679963612-T253TM512G0C325-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61418/team-t-force-2-5in-delta-max-lite-rgb-ssd-512gb-with-cable",
+    "description":"The Team T-Force 2.5in Delta Max Lite RGB SSD 512GB features a sequential read and write speed of 550/500 MB/s, 400TBW, is equipped with 3D NAND flash memory, Wear-Leveling technology, built-in ECC for reliable gaming storage and comes with a cable.…",
+    "price":"89"
+    },
+    {
+    "title":"Team T-Force 2.5in Delta Max RGB SSD 1TB with Cable",
+    "id":"https://www.pccasegear.com/products/61420/team-t-force-2-5in-delta-max-rgb-ssd-1tb-with-cable",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1679963612-T253TM512G0C325-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61420/team-t-force-2-5in-delta-max-rgb-ssd-1tb-with-cable",
+    "description":"The Team T-Force 2.5in Delta Max RGB SSD 1TB features a sequential read and write speed of 550/500 MB/s, 400TBW, is equipped with 3D NAND flash memory, Wear-Leveling technology, built-in ECC for reliable gaming storage and comes with a cable.…",
+    "price":"109"
+    },
+    {
+    "title":"Team T-Force 2.5in Delta Max RGB SSD 500GB White with Cable",
+    "id":"https://www.pccasegear.com/products/61421/team-t-force-2-5in-delta-max-rgb-ssd-500gb-white-with-cable",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1679970347-T253TM512G0C425-thb.png",
+    "image_id":"https://www.pccasegear.com/products/61421/team-t-force-2-5in-delta-max-rgb-ssd-500gb-white-with-cable",
+    "description":"The Team T-Force 2.5in Delta Max RGB SSD 500GB White features a sequential read and write speed of 550/500 MB/s, 400TBW, is equipped with 3D NAND flash memory, Wear-Leveling technology, built-in ECC for reliable gaming storage and comes with a cable.…",
+    "price":"109"
+    },
+    {
+    "title":"Team Vulcan Z 2.5inch SATA SSD 1TB",
+    "id":"https://www.pccasegear.com/products/58737/team-vulcan-z-2-5inch-sata-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1659055830-T253TZ001T0C101-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/58737/team-vulcan-z-2-5inch-sata-ssd-1tb",
+    "description":"The Team Vulcan Z SATA SSD 1TB features a sequential read and write speed of 550/500 MB/s, 800TBW, is equipped with 3D Flash and TLC flash, supports smart SLC caching technology, built-in ECC for reliable gaming storage and a shock and vibration resistant design.…",
+    "price":"65"
+    },
+    {
+    "title":"Team Vulcan Z 2.5inch SSD 2TB",
+    "id":"https://www.pccasegear.com/products/59031/team-vulcan-z-2-5inch-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1659055830-T253TZ001T0C101-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/59031/team-vulcan-z-2-5inch-ssd-2tb",
+    "description":"The Team Vulcan Z SATA SSD 2TB features a sequential read and write speed of 550/500 MB/s, 1600TBW, is equipped with 3D Flash and TLC flash, supports smart SLC caching technology, built-in ECC for reliable gaming storage and a shock and vibration resistant design.…",
+    "price":"129"
+    },
+    {
+    "title":"Team Vulcan Z 2.5inch SSD 512GB",
+    "id":"https://www.pccasegear.com/products/59030/team-vulcan-z-2-5inch-ssd-512gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1659055830-T253TZ001T0C101-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/59030/team-vulcan-z-2-5inch-ssd-512gb",
+    "description":"The Team Vulcan Z SATA SSD 512GB features a sequential read and write speed of 540/470 MB/s, 400TBW, is equipped with 3D Flash and TLC flash, supports smart SLC caching technology, built-in ECC for reliable gaming storage and a shock and vibration resistant design.…",
+    "price":"39"
+    },
+    {
+    "title":"Western Digital Black SN770 NVMe Gen4 M.2 SSD 1TB",
+    "id":"https://www.pccasegear.com/products/57769/western-digital-black-sn770-nvme-gen4-m-2-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/WDS100T3X0E-add1.jpg",
+    "image_id":"https://www.pccasegear.com/products/57769/western-digital-black-sn770-nvme-gen4-m-2-ssd-1tb",
+    "description":"The WD Black SN770 NVMe M.2 SSD delivers top-tier performance for gaming and hardware enthusiasts who are looking to build or upgrade their PC. Offering a 1TB capacity, the WD Black SN770 NVMe SSD rivals some of the best performing drives on the market to help give game…",
+    "price":"115"
+    },
+    {
+    "title":"Western Digital Black SN770 NVMe Gen4 M.2 SSD 2TB",
+    "id":"https://www.pccasegear.com/products/57768/western-digital-black-sn770-nvme-gen4-m-2-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/WDS200T3X0E-add1.jpg",
+    "image_id":"https://www.pccasegear.com/products/57768/western-digital-black-sn770-nvme-gen4-m-2-ssd-2tb",
+    "description":"The WD Black SN770 NVMe M.2 SSD delivers top-tier performance for gaming and hardware enthusiasts who are looking to build or upgrade their PC. Offering a 2TB capacity, the WD Black SN770 NVMe SSD rivals some of the best performing drives on the market to help give game…",
+    "price":"229"
+    },
+    {
+    "title":"Western Digital Black SN770 NVMe Gen4 M.2 SSD 500GB",
+    "id":"https://www.pccasegear.com/products/57770/western-digital-black-sn770-nvme-gen4-m-2-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/WDS500G3X0E-add1.jpg",
+    "image_id":"https://www.pccasegear.com/products/57770/western-digital-black-sn770-nvme-gen4-m-2-ssd-500gb",
+    "description":"The WD Black SN770 NVMe M.2 SSD delivers top-tier performance for gaming and hardware enthusiasts who are looking to build or upgrade their PC. Offering a 2TB capacity, the WD Black SN770 NVMe SSD rivals some of the best performing drives on the market to help give game…",
+    "price":"69"
+    },
+    {
+    "title":"Western Digital Blue 2.5in SATA SSD 2TB",
+    "id":"https://www.pccasegear.com/products/46165/western-digital-blue-2-5in-sata-ssd-2tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1557461043-WDS200T2B0A-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/46165/western-digital-blue-2-5in-sata-ssd-2tb",
+    "description":"The WD Blue 3D NAND SATA SSD utilises Western Digital 3D NAND technology to deliver a 2TB capacity with enhanced reliability. Featuring an active power draw up to 25% lower than previous generations of WD Blue SSDs, you're able to work longer before recharging your lapt…",
+    "price":"199"
+    },
+    {
+    "title":"Western Digital Blue M.2 SATA SSD 1TB",
+    "id":"https://www.pccasegear.com/products/59607/western-digital-blue-m-2-sata-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/WDS100T3B0B-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/59607/western-digital-blue-m-2-sata-ssd-1tb",
+    "description":"For fast performance and reliability, WD Blue SSDs boost the everyday computing experience in your desktop or laptop PC. It features transfer speeds up to 560MB/s, up to 1M hours MTBF, a 1TB capacity, a SATA 6GB/s interface and a M.2 2280 form factor.…",
+    "price":"105"
+    },
+    {
+    "title":"Western Digital Blue SN570 NVMe M.2 SSD 1TB",
+    "id":"https://www.pccasegear.com/products/57104/western-digital-blue-sn570-nvme-m-2-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1646695552-WDS100T3B0C-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57104/western-digital-blue-sn570-nvme-m-2-ssd-1tb",
+    "description":"The Western Digital Blue SN570 NVMe M.2 SSD 1TB features a sequential read/write speed of up to 3,500/3,000 MB/s, 600 TBW, slim M.2 2280 form factor, and can be managed via the Western Digital SSD Dashboard software.…",
+    "price":"85"
+    },
+    {
+    "title":"Western Digital Blue SN570 NVMe M.2 SSD 500GB",
+    "id":"https://www.pccasegear.com/products/57161/western-digital-blue-sn570-nvme-m-2-ssd-500gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1646695854-WDS500G3B0C-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57161/western-digital-blue-sn570-nvme-m-2-ssd-500gb",
+    "description":"The Western Digital Blue SN570 NVMe M.2 SSD 500GB features a sequential read/write speed of up to 3,500/2,300 MB/s, 300 TBW, slim M.2 2280 form factor, and can be managed via the Western Digital SSD Dashboard software.…",
+    "price":"49"
+    },
+    {
+    "title":"Western Digital Green 2.5in SATA SSD 1TB",
+    "id":"https://www.pccasegear.com/products/57767/western-digital-green-2-5in-sata-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/WDS100T3G0A-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57767/western-digital-green-2-5in-sata-ssd-1tb",
+    "description":"On sale! (normally 119) For fast performance and reliability, WD Green SSDs boost the everyday computing experience in your desktop or laptop PC. It features transfer speeds up to 545MB/s, up to 515K hours MTBF, a 1TB capacity, a SATA 6GB/s interface, 2.5in/7mm form fa…",
+    "price":"79"
+    },
+    {
+    "title":"Western Digital Green 2.5in SATA SSD 480GB",
+    "id":"https://www.pccasegear.com/products/58889/western-digital-green-2-5in-sata-ssd-480gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1681783764-WDS480G3G0A-thb2.jpg",
+    "image_id":"https://www.pccasegear.com/products/58889/western-digital-green-2-5in-sata-ssd-480gb",
+    "description":"The Western Digital Green SATA SSD boosts the everyday computing experience in your desktop or laptop PC. It features transfer speeds up to 545MB/s, up to 515K hours MTBF, a 1TB capacity, a SATA 6GB/s interface and a 2.5in/7mm form factor.…",
+    "price":"38"
+    },
+    {
+    "title":"Western Digital Green M.2 NVMe SSD 240GB",
+    "id":"https://www.pccasegear.com/products/54503/western-digital-green-m-2-nvme-ssd-240gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/WDS240G2G0C-thumb.jpg",
+    "image_id":"https://www.pccasegear.com/products/54503/western-digital-green-m-2-nvme-ssd-240gb",
+    "description":"The Western Digital Green M.2 NVMe SSD 240GB features a sequential read/write speed of up to 2,400/900MB/s, slim M.2 2280 form factor, 40TBW, and can be monitored via the Western Digital SSD dashboard.…",
+    "price":"29"
+    },
+    {
+    "title":"Western Digital Green SN350 NVMe M.2 SSD 1TB",
+    "id":"https://www.pccasegear.com/products/58401/western-digital-green-sn350-nvme-m-2-ssd-1tb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/WDS100T3G0C-add2.jpg",
+    "image_id":"https://www.pccasegear.com/products/58401/western-digital-green-sn350-nvme-m-2-ssd-1tb",
+    "description":"The WD Green SN350 NVMe SSD features sequential read speeds of up to 3200MB/s and write speeds of up to 2500MB/s and includes SSD management software for performance optimisation, data security and firmware updates.…",
+    "price":"79"
+    }
+]

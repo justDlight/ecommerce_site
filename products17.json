@@ -1,0 +1,18 @@
+[
+    {
+    "title":"ASUS GeForce RTX 3080 TUF Gaming OC LHR 10GB",
+    "id":"https://www.pccasegear.com/products/54806/asus-geforce-rtx-3080-tuf-gaming-oc-lhr-10gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1626418688-TUF-RTX3080-O10G-V2-GAMING-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/54806/asus-geforce-rtx-3080-tuf-gaming-oc-lhr-10gb",
+    "description":"The ASUS TUF GeForce RTX 3080 OC LHR 10GB graphics card features a 1785MHz boost clock with a 1815MHz OC clock, 10GB GDDR6X 320-bit memory interface, 19GB/s memory speed, PCI-E 4.0, 2 x HDMI 2.1, 3 x DisplayPort 1.4a, HDCP support, OpenGL 4.6 and DirectX 12 support, and…",
+    "price":"1249"
+    },
+    {
+    "title":"ASUS ROG Strix GeForce RTX 3080 OC White 10GB",
+    "id":"https://www.pccasegear.com/products/54807/asus-rog-strix-geforce-rtx-3080-oc-white-10gb",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1626418504-ROG-STRIX-RTX3080-O10G-WHITE-V2-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/54807/asus-rog-strix-geforce-rtx-3080-oc-white-10gb",
+    "description":"The ASUS ROG Strix GeForce RTX 3080 OC White 10GB White graphics card features a 1905MHz boost clock (gaming mode), 1935MHz boost clock (OC mode), 10GB GDDR6X 320-bit memory interface, 19GB/s memory speed, PCI-E 4.0, 2 x HDMI 2.1, 3 x DisplayPort 1.4a, HDCP 2.3 support,…",
+    "price":"1349"
+    }
+]
