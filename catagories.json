@@ -16,95 +16,95 @@
         "title": "Cases",
         "sub-cata": {
             "sub-title-0": "Phanteks",
-            "sub-title-0-url": "http://localhost:3000/phanteksCases",
+            "sub-title-0-url": "https://ecommerce-site-git-main-justdlight.vercel.app/phanteksCases",
             "sub-title-1": "NZXT",
-            "sub-title-1-url": "http://localhost:3000/nzxtCases",
+            "sub-title-1-url": "https://ecommerce-site-git-main-justdlight.vercel.app/nzxtCases",
             "sub-title-2": "Kolink",
-            "sub-title-2-url": "http://localhost:3000/kolinkCases",
+            "sub-title-2-url": "https://ecommerce-site-git-main-justdlight.vercel.app/kolinkCases",
             "sub-title-3": "Corsair",
-            "sub-title-3-url": "http://localhost:3000/corsairCases"
+            "sub-title-3-url": "https://ecommerce-site-git-main-justdlight.vercel.app/corsairCases"
         }
     },
     {
         "title": "CPU's",
         "sub-cata": {
             "sub-title-0": "AMD AM4",
-            "sub-title-0-url": "http://localhost:3000/amdAm4CPU",
+            "sub-title-0-url": "https://ecommerce-site-git-main-justdlight.vercel.app/amdAm4CPU",
             "sub-title-1": "AMD AM5",
-            "sub-title-1-url": "http://localhost:3000/amdAm5CPU",
+            "sub-title-1-url": "https://ecommerce-site-git-main-justdlight.vercel.app/amdAm5CPU",
             "sub-title-2": "INTEL 12th gen",
-            "sub-title-2-url": "http://localhost:3000/intel12Gen",
+            "sub-title-2-url": "https://ecommerce-site-git-main-justdlight.vercel.app/intel12Gen",
             "sub-title-3": "INTEL 13th gen",
-            "sub-title-3-url": "http://localhost:3000/intel13Gen"
+            "sub-title-3-url": "https://ecommerce-site-git-main-justdlight.vercel.app/intel13Gen"
         }
     },
     {
         "title": "Graphic Cards",
         "sub-cata": {
             "sub-title-0": "Geforce RTX 3050",
-            "sub-title-0-url": "http://localhost:3000/rtx3050",
+            "sub-title-0-url": "https://ecommerce-site-git-main-justdlight.vercel.app/rtx3050",
             "sub-title-1": "Geforce RTX 3060",
-            "sub-title-1-url": "http://localhost:3000/rtx3060",
+            "sub-title-1-url": "https://ecommerce-site-git-main-justdlight.vercel.app/rtx3060",
             "sub-title-2": "Geforce RTX 3070",
-            "sub-title-2-url": "http://localhost:3000/rtx3070",
+            "sub-title-2-url": "https://ecommerce-site-git-main-justdlight.vercel.app/rtx3070",
             "sub-title-3": "Geforce RTX 3080",
-            "sub-title-3-url": "http://localhost:3000/rtx3080",
+            "sub-title-3-url": "https://ecommerce-site-git-main-justdlight.vercel.app/rtx3080",
             "sub-title-4": "Radeon RX 6500 XT",
-            "sub-title-4-url": "http://localhost:3000/rx6500",
+            "sub-title-4-url": "https://ecommerce-site-git-main-justdlight.vercel.app/rx6500",
             "sub-title-5": "Radeon RX 6700 XT",
-            "sub-title-5-url": "http://localhost:3000/rx6700",
+            "sub-title-5-url": "https://ecommerce-site-git-main-justdlight.vercel.app/rx6700",
             "sub-title-6": "Radeon RX 6950 XT",
-            "sub-title-6-url": "http://localhost:3000/rx6950",
+            "sub-title-6-url": "https://ecommerce-site-git-main-justdlight.vercel.app/rx6950",
             "sub-title-7": "Radeon RX 7900 XT",
-            "sub-title-7-url": "http://localhost:3000/rx7900"
+            "sub-title-7-url": "https://ecommerce-site-git-main-justdlight.vercel.app/rx7900"
         }
     },
     {
         "title": "Hard Drives & SSD's",
         "sub-cata": {
             "sub-title-0": "3.5 Hard Drives",
-            "sub-title-0-url": "http://localhost:3000/35inHD",
+            "sub-title-0-url": "https://ecommerce-site-git-main-justdlight.vercel.app/35inHD",
             "sub-title-1": "2.5 Hard Drives",
-            "sub-title-1-url": "http://localhost:3000/25inHD",
+            "sub-title-1-url": "https://ecommerce-site-git-main-justdlight.vercel.app/25inHD",
             "sub-title-2": "Solid State Drives",
-            "sub-title-2-url": "http://localhost:3000/ssds",
+            "sub-title-2-url": "https://ecommerce-site-git-main-justdlight.vercel.app/ssds",
             "sub-title-3": "External Drives",
-            "sub-title-3-url": "http://localhost:3000/extHardDrives"
+            "sub-title-3-url": "https://ecommerce-site-git-main-justdlight.vercel.app/extHardDrives"
         }
     },
     {
         "title": "Memory",
         "sub-cata": {
             "sub-title-0": "ALL DDR5",
-            "sub-title-0-url": "http://localhost:3000/ddr5",
+            "sub-title-0-url": "https://ecommerce-site-git-main-justdlight.vercel.app/ddr5",
             "sub-title-1": "ALL DDR4",
-            "sub-title-1-url": "http://localhost:3000/ddr4",
+            "sub-title-1-url": "https://ecommerce-site-git-main-justdlight.vercel.app/ddr4",
             "sub-title-2": "ALL DDR3",
-            "sub-title-2-url": "http://localhost:3000/ddr3"
+            "sub-title-2-url": "https://ecommerce-site-git-main-justdlight.vercel.app/ddr3"
         }
     },
     {
         "title": "Monitors",
         "sub-cata": {
             "sub-title-0": "23-26 inch Monitors",
-            "sub-title-0-url": "http://localhost:3000/23to26inchMonitors",
+            "sub-title-0-url": "https://ecommerce-site-git-main-justdlight.vercel.app/23to26inchMonitors",
             "sub-title-1": "27-32 inch Monitors",
-            "sub-title-1-url": "http://localhost:3000/33to35inchMonitor",
+            "sub-title-1-url": "https://ecommerce-site-git-main-justdlight.vercel.app/33to35inchMonitor",
             "sub-title-2": "33-55 inch Monitors",
-            "sub-title-2-url": "http://localhost:3000/33to35inchMonitor"
+            "sub-title-2-url": "https://ecommerce-site-git-main-justdlight.vercel.app/33to35inchMonitor"
         }
     },
     {
         "title": "Power Supplies",
         "sub-cata": {
             "sub-title-0": "Super Flower Power Supplies",
-            "sub-title-0-url": "http://localhost:3000/superFlowerPSU",
+            "sub-title-0-url": "https://ecommerce-site-git-main-justdlight.vercel.app/superFlowerPSU",
             "sub-title-1": "Phanteks Power Supplies",
-            "sub-title-1-url": "http://localhost:3000/phanteksPSU",
+            "sub-title-1-url": "https://ecommerce-site-git-main-justdlight.vercel.app/phanteksPSU",
             "sub-title-2": "Corsair Power Supplies",
-            "sub-title-2-url": "http://localhost:3000/corsairPSU",
+            "sub-title-2-url": "https://ecommerce-site-git-main-justdlight.vercel.app/corsairPSU",
             "sub-title-3": "Aerocool Power Supplies",
-            "sub-title-3-url": "http://localhost:3000/aerocoolPSU"
+            "sub-title-3-url": "https://ecommerce-site-git-main-justdlight.vercel.app/aerocoolPSU"
         }
     }
 ]
