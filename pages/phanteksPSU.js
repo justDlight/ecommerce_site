@@ -7,7 +7,7 @@ import { useEffect } from 'react';
 
 import cataHideTillClicked from '../jwCustomJS.js';
 import catagories from '../catagories.json';
-import products34 from '../products34.json';
+import products33 from '../products33.json';
 
 export default function Home() {
   return (
@@ -46,55 +46,62 @@ export default function Home() {
             </nav>
           </div>
 
-          {/*Title Homepage*/}
+          {/*Title Homepage & catagories*/}
           <div className="row">
-            <h1 className={styles.title} id="header-txt">
-              justDlight&apos;s Computer Store!
-            </h1>
-            <h1 id="sub-header-txt" className={styles.title}>
-              New and Hot!
-            </h1>
+            <div className="col" id="category-col">
+                <h4 id="categories-title">Categories</h4>
+                {catagories.map(category => (
+                  <div key={category.title}>
+                    <h3 onClick={cataHideTillClicked}>{category.title}</h3>
+                    <ul className="sub-cata-list">
+                      {Object.keys(category['sub-cata']).map(subcat => {
+                        // Check if the key contains "-url"
+                        if (!subcat.includes('-url')) {
+                          return (
+                            <li key={subcat} className="sub-cata-item">
+                              <a href={category['sub-cata'][subcat + '-url']} target="_blank">
+                                {category['sub-cata'][subcat]}
+                              </a>
+                            </li>
+                          );
+                        }
+                      })}
+                    </ul>
+                  </div>
+                ))}
+              </div>
+            <div className="col">
+              <h1 className={styles.title} id="header-txt">
+                justDlight&apos;s Computer Store!
+              </h1>
+              <h1 id="sub-header-txt" className={styles.title}>
+                Phanteks Power Supply Units
+              </h1>
+            </div>
           </div>
 
           
           {/*Catagories*/}
           <div className="row">
-            <div className="col" id="category-col">
-                <h4 id="categories-title">Categories</h4>
-                {catagories.map(category => (
-                <div key={category.title}>
-                    <h3 onClick={cataHideTillClicked}>{category.title}</h3>
-                    <ul className="sub-cata-list">
-                    {Object.keys(category['sub-cata']).map(subcat => (
-                        <li key={subcat} className="sub-cata-item">
-                        <a href={category['sub-cata'][subcat + '-url']} target="_blank">
-                            {category['sub-cata'][subcat]}
-                        </a>
-                        </li>
-                    ))}
-                    </ul>
-                </div>
-                ))}
-            </div>
 
 
             {/*Display cables and adapters*/}
             <div className="col" id="product-col">
               <div className={styles.grid}>
-                {products34.map(products34 => {
+                {products33.map(products33 => {
                   return (
-                    <div key={products34.id} className={styles.card}>
-                      <img src={products34.image} alt={`Preview of ${products34.title}`} />
-                      <h3 id="product-title">{ products34.title }</h3>
-                      <p id="product-description">{ products34.description }</p>
-                      <p id="product-price">${ products34.price }</p>
+                    <div key={products33.id} className={styles.card}>
+                      <img src={products33.image} alt={`Preview of ${products33.title}`} />
+                      <h3 id="product-title">{ products33.title }</h3>
+                      <p id="product-description">{ products33.description }</p>
+                      <p id="product-price">${ products33.price }</p>
                       <p>
                         <button id="test_id" className="snipcart-add-item"
-                          data-item-id={products34.id}
-                          data-item-image={products34.image}
-                          data-item-name={products34.title}
+                          data-item-id={products33.id}
+                          data-item-image={products33.image}
+                          data-item-name={products33.title}
                           data-item-url="/"
-                          data-item-price={products34.price}
+                          data-item-price={products33.price}
                         >
                           Add to Cart
                         </button>

@@ -46,36 +46,44 @@ export default function Home() {
             </nav>
           </div>
 
-          {/*Title Homepage*/}
+          {/*Title Homepage & catagories*/}
           <div className="row">
-            <h1 className={styles.title} id="header-txt">
-              justDlight&apos;s Computer Store!
-            </h1>
-            <h1 id="sub-header-txt" className={styles.title}>
-              New and Hot!
-            </h1>
+            <div className="col" id="category-col">
+                <h4 id="categories-title">Categories</h4>
+                {catagories.map(category => (
+                  <div key={category.title}>
+                    <h3 onClick={cataHideTillClicked}>{category.title}</h3>
+                    <ul className="sub-cata-list">
+                      {Object.keys(category['sub-cata']).map(subcat => {
+                        // Check if the key contains "-url"
+                        if (!subcat.includes('-url')) {
+                          return (
+                            <li key={subcat} className="sub-cata-item">
+                              <a href={category['sub-cata'][subcat + '-url']} target="_blank">
+                                {category['sub-cata'][subcat]}
+                              </a>
+                            </li>
+                          );
+                        }
+                      })}
+                    </ul>
+                  </div>
+                ))}
+              </div>
+            <div className="col">
+              <h1 className={styles.title} id="header-txt">
+                justDlight&apos;s Computer Store!
+              </h1>
+              <h1 id="sub-header-txt" className={styles.title}>
+                RX 6700 XT GPUs
+              </h1>
+            </div>
           </div>
 
           
           {/*Catagories*/}
           <div className="row">
-            <div className="col" id="category-col">
-                <h4 id="categories-title">Categories</h4>
-                {catagories.map(category => (
-                <div key={category.title}>
-                    <h3 onClick={cataHideTillClicked}>{category.title}</h3>
-                    <ul className="sub-cata-list">
-                    {Object.keys(category['sub-cata']).map(subcat => (
-                        <li key={subcat} className="sub-cata-item">
-                        <a href={category['sub-cata'][subcat + '-url']} target="_blank">
-                            {category['sub-cata'][subcat]}
-                        </a>
-                        </li>
-                    ))}
-                    </ul>
-                </div>
-                ))}
-            </div>
+
 
 
             {/*Display cables and adapters*/}
