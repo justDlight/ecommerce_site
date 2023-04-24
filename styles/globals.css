@@ -219,9 +219,22 @@ ul {
   color: white;
   position: fixed !important;
   top: 0 !important;
-  cursor: pointer;
 }
 
 #product-col {
   margin-left: 30%;
+}
+
+#search_bar {
+  height: 300px;
+  width: 300px;
+}
+
+#cata_h3 {
+  width: 10%;
+  cursor: pointer;
+}
+
+.snipcart__font--black, .snipcart__font--subtitle {
+  color: black !important;
 }
