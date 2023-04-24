@@ -57,7 +57,7 @@ export default function Home() {
           {/*Title Homepage*/}
           <div className="row">
             <div className="col" id="category-col">
-                <h4 id="categories-title">Categoriesddd</h4><br/><p>Double click to expand!</p>
+                <h4 id="categories-title">Categories</h4><br/><p>Double click to expand!</p>
                 {catagories.map(category => (
                   <div key={category.title}>
                     <h3 onClick={cataHideTillClicked}>{category.title}</h3>
