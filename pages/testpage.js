@@ -6,18 +6,14 @@ import 'bootstrap/dist/css/bootstrap.css'
 import { useEffect, useState } from 'react';
 
 import cataHideTillClicked from '../jwCustomJS.js';
-import products from '../products.json';
-import products2 from '../products2.json';
+import allProducts from '../allProducts.json';
 import catagories from '../catagories.json';
-import products3 from '../products3.json';
-import products4 from '../products4.json';
-import products5 from '../products5.json';
-import products6 from '../products6.json';
+
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState('');
 
-  const filteredProducts = products.filter(product =>
+  const filteredallProducts = allProducts.filter(product =>
     product.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
@@ -36,7 +32,7 @@ export default function Home() {
         {/* Search bar */}
         <input
           type="text"
-          placeholder="Search products..."
+          placeholder="Search allProducts..."
           value={searchTerm}
           onChange={e => setSearchTerm(e.target.value)}
         />
@@ -48,10 +44,10 @@ export default function Home() {
           {/*Catagories THIS IS NOT USED WILL BE DELETED*/}
           <div className="row">
 
-            {/*Products New and Hot*/}
+            {/*allProducts New and Hot*/}
             <div className="col" id="product-col">
               <div className={styles.grid}>
-                {filteredProducts.map(product => {
+                {filteredallProducts.map(product => {
                   return (
                     <div key={product.id} className={styles.card}>
                       <img src={product.image} alt={`Preview of ${product.title}`} />

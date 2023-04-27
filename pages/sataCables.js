@@ -3,13 +3,18 @@ import Image from 'next/image'
 import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 import 'bootstrap/dist/css/bootstrap.css'
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 
 import cataHideTillClicked from '../jwCustomJS.js';
 import catagories from '../catagories.json';
 import products9 from '../products9.json';
 
 export default function Home() {
+  const [searchTerm, setSearchTerm] = useState('');
+
+  const filteredProducts = products9.filter(product =>
+    product.title.toLowerCase().includes(searchTerm.toLowerCase())
+  );
   return (
     <div className={styles.container}>
 
@@ -40,6 +45,7 @@ export default function Home() {
                         <img src="https://lightintime.com/img/ecommerce_img/icons8-shopping-cart-64.png"></img><span className="snipcart-total-price">$0.00</span>
                       </a>
                     </p>
+                    
                   </div>
                 </div>
               </div>
@@ -49,6 +55,13 @@ export default function Home() {
           {/*Title Homepage & catagories*/}
           <div className="row">
             <div className="col" id="category-col">
+                {/* Search bar */}
+              <input
+                type="text"
+                placeholder="Search products..."
+                value={searchTerm}
+                onChange={e => setSearchTerm(e.target.value)}
+              />
                 <h4 id="categories-title">Categories</h4><br/><p>Double click to expand!</p>
                 {catagories.map(category => (
                   <div key={category.title}>
@@ -89,7 +102,7 @@ export default function Home() {
             {/*Display cables and adapters*/}
             <div className="col" id="product-col">
               <div className={styles.grid}>
-                {products9.map(products9 => {
+                {filteredProducts.map(products9 => {
                   return (
                     <div key={products9.id} className={styles.card}>
                       <img src={products9.image} alt={`Preview of ${products9.title}`} />

@@ -238,3 +238,8 @@ ul {
 .snipcart__font--black, .snipcart__font--subtitle {
   color: black !important;
 }
+
+input {
+  width: 10%;
+  height: 10%;
+}
