@@ -52,13 +52,6 @@ export default function Home() {
                         <img src="https://lightintime.com/img/ecommerce_img/icons8-shopping-cart-64.png"></img><span className="snipcart-total-price">$0.00</span>
                       </a>
                     </p>
-                    {/* Search bar */}
-        <input
-          type="text"
-          placeholder="Search products..."
-          value={searchTerm}
-          onChange={e => setSearchTerm(e.target.value)}
-        />
                   </div>
                 </div>
               </div>
