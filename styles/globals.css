@@ -243,3 +243,16 @@ input {
   width: 10%;
   height: 10%;
 }
+
+#header {
+  color: white;
+}
+
+.row > * {
+  flex-shrink: 0;
+  width: auto !important; 
+  max-width: 100%;
+  padding-right: calc(var(--bs-gutter-x) * 0.5);
+  padding-left: calc(var(--bs-gutter-x) * 0.5);
+  margin-top: var(--bs-gutter-y);
+}

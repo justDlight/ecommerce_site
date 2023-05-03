@@ -106,7 +106,9 @@ export default function Home() {
                   return (
                     <div key={products29.id} className={styles.card}>
                       <img src={products29.image} alt={`Preview of ${products29.title}`} />
-                      <h3 id="product-title">{ products29.title }</h3>
+                      <h3 id="product-title">
+                        <a href={`/${products29.title}`}>{ products29.title }</a>
+                      </h3>
                       <p id="product-description">{ products29.description }</p>
                       <p id="product-price">${ products29.price }</p>
                       <p>
