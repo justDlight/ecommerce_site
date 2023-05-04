@@ -103,7 +103,7 @@ export default function Home() {
 
           
           {/*Catagories THIS IS NOT USED WILL BE DELETED*/}
-          <div className="row">
+          <div className="row" id="product-row">
 
             {/*Products New and Hot*/}
             <div className="col" id="product-col">
