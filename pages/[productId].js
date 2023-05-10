@@ -20,13 +20,13 @@ export default function Product() {
 
       
       <div>
-        <h1 id="header">Product Page</h1>
+        <h1 id="product-page-header">Product Page</h1>
         {product ? (
           <>
-            <img src={product.image} alt={`Preview of ${product.title}`} />
             <h3 id="product-title">{product.title}</h3>
             <p id="product-description">{product.description}</p>
             <p id="product-price">${ product.price }</p>
+            <img id="product-image" src={product.image} alt={`Preview of ${product.title}`} />
             <p>
                 <button id="test_id" className="snipcart-add-item"
                   data-item-id={product.id}
@@ -42,6 +42,11 @@ export default function Product() {
         ) : (
           <h3 id="product-title">Product not found</h3>
         )}
+      </div>
+      <div>
+        <h4>Overview</h4>
+        <h4>Specifications</h4>
+        <h4>Warranty & Returns</h4>
       </div>
       <script async src="https://cdn.snipcart.com/themes/v3.0.21/default/snipcart.js" />
       <script src="../jwCustomJS.js" />

@@ -1,58 +1,74 @@
 [
+  {
+  "title":"Kolink Bastion ARGB Tempered Glass Case Black",
+  "id":"https://www.pccasegear.com/products/51965/kolink-bastion-argb-tempered-glass-case-black",
+  "image":"https://img.pccasegear.com/tr:n-grid/images/1601852984-PGW-CH-KOL-027-thb.jpg",
+  "image_id":"https://www.pccasegear.com/products/51965/kolink-bastion-argb-tempered-glass-case-black",
+  "description":"The Kolink Bastion A-RGB Tempered Glass Midi Case Black features a tempered glass side panel, steel front and top panel, A-RGB side panel strip, ventilation slots on the top, and right panel for efficient ventilation, supports m-ITX, m-ATX, ATX, and e-ATX motherboards,…",
+  "price":"89"
+  },
+  {
+  "title":"Kolink Bastion ARGB Tempered Glass Case White",
+  "id":"https://www.pccasegear.com/products/51966/kolink-bastion-argb-tempered-glass-case-white",
+  "image":"https://img.pccasegear.com/tr:n-grid/images/1601855539-PGW-CH-KOL-040-thb.jpg",
+  "image_id":"https://www.pccasegear.com/products/51966/kolink-bastion-argb-tempered-glass-case-white",
+  "description":"The Kolink Bastion A-RGB Tempered Glass Midi Case White features a tempered glass side panel, steel front and top panel, A-RGB side panel strip, ventilation slots on the top, and right panel for efficient ventilation, supports m-ITX, m-ATX, ATX, and e-ATX motherboards,…",
+  "price":"85"
+  },
+  {
+  "title":"Kolink Big Chungus Hench Edition ARGB Full Tower Case",
+  "id":"https://www.pccasegear.com/products/56174/kolink-big-chungus-hench-edition-argb-full-tower-case",
+  "image":"https://img.pccasegear.com/tr:n-grid/images/1637034241-PGW-CH-KOL-096-thb.jpg",
+  "image_id":"https://www.pccasegear.com/products/56174/kolink-big-chungus-hench-edition-argb-full-tower-case",
+  "description":"The Kolink Big Chungus Hench Edition ARGB Full Tower Case features a black aluminium frame, tempered glass side panels, ARGB sideboard, supports ITX, m-ATX and ATX motherboards, 4 x pre-installed Umbra 120mm ARGB PWM fans (2 x front, 2 x rear), radiator support at the t…",
+  "price":"299"
+  },
+  {
+  "title":"Kolink Big Chungus Shredded Edition ARGB Full Tower Case",
+  "id":"https://www.pccasegear.com/products/56183/kolink-big-chungus-shredded-edition-argb-full-tower-case",
+  "image":"https://img.pccasegear.com/tr:n-grid/images/1637035717-PGW-CH-KOL-097-thb.jpg",
+  "image_id":"https://www.pccasegear.com/products/56183/kolink-big-chungus-shredded-edition-argb-full-tower-case",
+  "description":"The Kolink Big Chungus Shredded Edition ARGB Full Tower Case features a metal frame, tempered glass side panels, supports ITX, m-ATX and ATX motherboards, 4 x pre-installed Umbra 120mm ARGB PWM fans (3 x front, 1 x rear) radiator support at the front (up to 360mm), top…",
+  "price":"279"
+  },
+  {
+    "title":"Phanteks NV7 D-RGB Tempered Glass Case Black",
+    "id":"https://www.pccasegear.com/products/61292/phanteks-nv7-d-rgb-tempered-glass-case-black",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1679885870-PH-NV723TG-DBK01-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61292/phanteks-nv7-d-rgb-tempered-glass-case-black",
+    "description":"The Phanteks NV7 D-RGB Tempered Glass Case features a tempered glass side and front panel, ultra-fine mesh panels for improved airflow and dust filtration, integrated fan/radiator brackets, LED cable covers, airflow covers, unique cable management tools, supports m-ITX,…",
+    "price":"349"
+    },
     {
-        "title": "Samsung Odyssey G8 UWQHD 175Hz FreeSync OLED Curved 34in Monitor",
-        "id": "monitor_samsung_uwqhd",
-        "description": "The Samsung Odyssey G8 UWQHD 175Hz FreeSync OLED Curved monitor features a 34inch display with a 3440 x 1440 max resolution.",
-        "price": "1599.00",
-        "image": "/images/Samsung_Monitor.jpg"
+    "title":"Phanteks NV7 D-RGB Tempered Glass Case White",
+    "id":"https://www.pccasegear.com/products/61293/phanteks-nv7-d-rgb-tempered-glass-case-white",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1679886313-PH-NV723TG-DMW01-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/61293/phanteks-nv7-d-rgb-tempered-glass-case-white",
+    "description":"The Phanteks NV7 D-RGB Tempered Glass Case features a tempered glass side and front panel, ultra-fine mesh panels for improved airflow and dust filtration, integrated fan/radiator brackets, LED cable covers, airflow covers, unique cable management tools, supports m-ITX,…",
+    "price":"349"
+    },
+    {
+    "title":"Phanteks Eclipse G360A Airflow D-RGB Tempered Glass Black",
+    "id":"https://www.pccasegear.com/products/57376/phanteks-eclipse-g360a-airflow-d-rgb-tempered-glass-black",
+    "image":"https://img.pccasegear.com/tr:n-grid/images/1654665081-PH-EC360ATG-DBK02-thb.jpg",
+    "image_id":"https://www.pccasegear.com/products/57376/phanteks-eclipse-g360a-airflow-d-rgb-tempered-glass-black",
+    "description":"The Phanteks Eclipse G360A Airflow D-RGB Tempered Glass Black features a tempered glass side panel, mesh front panel for optimal airflow, dust filters, supports m-ITX, mn-ATX, ATX, e-ATX motherboards, 3 x pre-installed 120mm D-RGB PWM front fans, radiator support at the…",
+    "price":"165"
+    },
+    {
+      "title":"ASUS GeForce RTX 3080 TUF Gaming OC LHR 10GB",
+      "id":"https://www.pccasegear.com/products/54806/asus-geforce-rtx-3080-tuf-gaming-oc-lhr-10gb",
+      "image":"https://img.pccasegear.com/tr:n-grid/images/1626418688-TUF-RTX3080-O10G-V2-GAMING-thb.jpg",
+      "image_id":"https://www.pccasegear.com/products/54806/asus-geforce-rtx-3080-tuf-gaming-oc-lhr-10gb",
+      "description":"The ASUS TUF GeForce RTX 3080 OC LHR 10GB graphics card features a 1785MHz boost clock with a 1815MHz OC clock, 10GB GDDR6X 320-bit memory interface, 19GB/s memory speed, PCI-E 4.0, 2 x HDMI 2.1, 3 x DisplayPort 1.4a, HDCP support, OpenGL 4.6 and DirectX 12 support, and…",
+      "price":"1249"
       },
       {
-        "title": "PCCG Phaser 4080 Gaming PC",
-        "id": "prebuilt_phaser",
-        "description": "Intel Core i9 13900KF CPU cooled by the MSI MAG CORELIQUID C360 AIO Liquid Cooler.",
-        "price": "5699.00",
-        "image": "/images/prebuilt_phaser.jpg"
-      },
-      {
-        "title": "Gigabyte GeForce RTX 4090 Aorus Xtreme Waterforce 24GB",
-        "id": "gpu_4090_Aorus",
-        "description": "The Gigabyte GeForce RTX 4090 Aorus Xtreme Waterforce 24GB graphics card features 24GB GDDR6X 384-bit memory interface.",
-        "price": "3699.00",
-        "image": "/images/4090_Aorus.jpg"
-      },
-      {
-        "title": "Corsair Vengeance RGB 32GB (2x16GB) 6400MHz CL32 DDR5",
-        "id": "ram_corsair",
-        "description": "Corsair Vengeance RGB 32GB (2x16GB) 6400MHz CL32 DDR5 memory delivers DDR5 performance.",
-        "price": "279.00",
-        "image": "/images/corsair_ram.jpg"
-      },
-      {
-        "title": "Team Vulcan Z 2.5inch SATA SSD 1TB",
-        "id": "vulcan_ssd",
-        "description": "The Team Vulcan Z SATA SSD 1TB features a sequential read and write speed of 550/500 MB/s, 800TBW.",
-        "price": "69.00",
-        "image": "/images/vulcan.jpg"
-      },
-      {
-        "title": "PCCG Pulse 3060 Gaming PC",
-        "id": "prebuilt_pulse",
-        "description": "AMD Ryzen 5 3600 CPU with Wraith Spire cooler, ASUS TUF B450M II Pro Gaming Motherboard, ASUS GeForce RTX 3060 Dual OC 8GB graphics card.",
-        "price": "3699.00",
-        "image": "/images/prebuilt_pulse.jpg"
-      },
-      {
-        "title": "AMD Ryzen 9 7900X3D Processor",
-        "id": "amd_cpu_7900X3D",
-        "description": "The AMD Ryzen 9 7900X3D CPU makes gaming more enjoyable than ever thanks to the combination of an incredibly fast processor and AMD 3D V-Cache Technology",
-        "price": "979.00",
-        "image": "/images/amd_ryzen_cpu.jpg"
-      },
-      {
-        "title": "ASUS ROG Falchion RGB Compact Wireless Mech Keyboard Red Switch",
-        "id": "keyboard_Falchion",
-        "description": "The ASUS ROG Falchion RGB Compact Wireless Mech Keyboard Red Switch is a compact 65% layout keyboard in a 60% frame.",
-        "price": "149.00",
-        "image": "/images/keyboard_asus.jpg"
+      "title":"ASUS ROG Strix GeForce RTX 3080 OC White 10GB",
+      "id":"https://www.pccasegear.com/products/54807/asus-rog-strix-geforce-rtx-3080-oc-white-10gb",
+      "image":"https://img.pccasegear.com/tr:n-grid/images/1626418504-ROG-STRIX-RTX3080-O10G-WHITE-V2-thb.jpg",
+      "image_id":"https://www.pccasegear.com/products/54807/asus-rog-strix-geforce-rtx-3080-oc-white-10gb",
+      "description":"The ASUS ROG Strix GeForce RTX 3080 OC White 10GB White graphics card features a 1905MHz boost clock (gaming mode), 1935MHz boost clock (OC mode), 10GB GDDR6X 320-bit memory interface, 19GB/s memory speed, PCI-E 4.0, 2 x HDMI 2.1, 3 x DisplayPort 1.4a, HDCP 2.3 support,…",
+      "price":"1349"
       }
-]
+  ]
