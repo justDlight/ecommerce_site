@@ -267,6 +267,7 @@ input {
   display: flex;
   color: white;
   justify-content: center;
+  margin-top: 15%;
 }
 
 #product-title {
@@ -286,6 +287,8 @@ input {
   align-content: center;
   display: flex;
   justify-content: center;
+  margin-right: 4%;
+  margin-left: 4%;
 }
 
 #product-price {
@@ -298,4 +301,51 @@ input {
   display: block;
   margin: 0 auto;
   margin-top: 5%;
+}
+
+#overview {
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-top: 5%;
+  cursor: pointer;
+}
+
+#specs {
+  display: flex;
+  justify-content: center;
+  color: white;
+  cursor: pointer;
+}
+
+#warranty {
+  display: flex;
+  justify-content: center;
+  color: white;
+  cursor: pointer;
+}
+
+#overview-filler {
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-right: 4%;
+  margin-left: 4%;
+}
+
+#specs-filler {
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-right: 4%;
+  margin-left: 4%;
+}
+
+#warranty-filler {
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin-bottom: 10%;
+  margin-right: 4%;
+  margin-left: 4%;
 }
