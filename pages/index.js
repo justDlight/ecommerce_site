@@ -93,7 +93,7 @@ export default function Home() {
             </div>
             <div className="col">
               <h1 className={styles.title} id="header-txt">
-                justDlight&apos;s Computer Store!
+                justDlight&apos;s Computer Store!<br/>In Development
               </h1>
               <h1 id="sub-header-txt" className={styles.title}>
                 New and Hot!
