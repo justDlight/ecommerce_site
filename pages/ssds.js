@@ -4,7 +4,6 @@ import { Inter } from 'next/font/google'
 import styles from '@/styles/Home.module.css'
 import 'bootstrap/dist/css/bootstrap.css'
 import { useEffect, useState } from 'react';
-
 import cataHideTillClicked from '../jwCustomJS.js';
 import catagories from '../catagories.json';
 import products24 from '../products24.json';
