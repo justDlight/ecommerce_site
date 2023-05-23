@@ -7,12 +7,12 @@ import { useEffect, useState } from 'react';
 
 import cataHideTillClicked from '../jwCustomJS.js';
 import catagories from '../catagories.json';
-import products29 from '../products29.json';
+import products10 from '../products10.json';
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState('');
 
-  const filteredProducts = products29.filter(product =>
+  const filteredProducts = products10.filter(product =>
     product.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
   return (
@@ -83,55 +83,26 @@ export default function Home() {
                   </div>
                 ))}
               </div>
+
             <div className="col">
               <h1 className={styles.title} id="header-txt">
                 justDlight&apos;s Computer Store!
               </h1>
-              <h1 id="sub-header-txt" className={styles.title}>
-                23 inch to 26 inch Monitors
-              </h1>
             </div>
-          </div>
-
-          
-          {/*Catagories*/}
-          <div className="row">
-            
 
 
-            {/*Display cables and adapters*/}
-            <div className="col" id="product-col">
-              <div className={styles.grid}>
-                {filteredProducts.map(products29 => {
-                  return (
-                    <div key={products29.id} className={styles.card}>
-                      <img src={products29.image} alt={`Preview of ${products29.title}`} />
-                      <h3 id="product-title">
-                        <a href={`/${products29.title}`}>{ products29.title }</a>
-                      </h3>
-                      <p id="product-description">{ products29.description }</p>
-                      <p id="product-price">${ products29.price }</p>
-                      <p>
-                        <button id="test_id" className="snipcart-add-item"
-                          data-item-id={products29.id}
-                          data-item-image={products29.image}
-                          data-item-name={products29.title}
-                          data-item-url="/"
-                          data-item-price={products29.price}
-                        >
-                          Add to Cart
-                        </button>
-                      </p>
-                    </div>
-                  );
-                })}
-              </div>
+
+            <div className="col" id="about-container">
+                <h2 id="about-title">About</h2>
+                <h4 id="about-description">This website is for educational purposes only. It does not allow transactions to go through. It has been created through Next.js. All products have been webscraped from PC Case Gear. Link to PC Case Gear website: <a href="https://www.pccasegear.com/">https://www.pccasegear.com</a></h4>
             </div>
-      
+
 
 
 
           </div>
+
+          
 
 
         </div>

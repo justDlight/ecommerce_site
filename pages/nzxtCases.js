@@ -38,8 +38,8 @@ export default function Home() {
                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                   <div className="navbar-nav">
                     <a className="nav-link active" id="nav-link-2" aria-current="page" href="https://ecommerce-site-ten-henna.vercel.app/">Home</a>
-                    <a className="nav-link" id="nav-link-3" href="#">....</a>
-                    <a className="nav-link" id="nav-link-4" href="#">....</a>
+                    <a className="nav-link" id="nav-link-3" href="https://ecommerce-site-git-main-justdlight.vercel.app/allProductsPage">All Products</a>
+                    <a className="nav-link" id="nav-link-4" href="https://ecommerce-site-git-main-justdlight.vercel.app/aboutPage">About</a>
                     <p className="nav-link">
                       <a className="snipcart-checkout snipcart-summary" href="#" style={{textDecoration: "none"}}>
                         <img src="https://lightintime.com/img/ecommerce_img/icons8-shopping-cart-64.png"></img><span className="snipcart-total-price">$0.00</span>

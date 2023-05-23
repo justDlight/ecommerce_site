@@ -7,12 +7,12 @@ import { useEffect, useState } from 'react';
 
 import cataHideTillClicked from '../jwCustomJS.js';
 import catagories from '../catagories.json';
-import products29 from '../products29.json';
+import allProducts from '../allProducts.json';
 
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState('');
 
-  const filteredProducts = products29.filter(product =>
+  const filteredProducts = allProducts.filter(product =>
     product.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
   return (
@@ -45,7 +45,6 @@ export default function Home() {
                         <img src="https://lightintime.com/img/ecommerce_img/icons8-shopping-cart-64.png"></img><span className="snipcart-total-price">$0.00</span>
                       </a>
                     </p>
-                    
                   </div>
                 </div>
               </div>
@@ -88,7 +87,7 @@ export default function Home() {
                 justDlight&apos;s Computer Store!
               </h1>
               <h1 id="sub-header-txt" className={styles.title}>
-                23 inch to 26 inch Monitors
+                2.5 inch Hard Drives
               </h1>
             </div>
           </div>
@@ -97,27 +96,25 @@ export default function Home() {
           {/*Catagories*/}
           <div className="row">
             
-
-
             {/*Display cables and adapters*/}
             <div className="col" id="product-col">
               <div className={styles.grid}>
-                {filteredProducts.map(products29 => {
+                {filteredProducts.map(allProducts => {
                   return (
-                    <div key={products29.id} className={styles.card}>
-                      <img src={products29.image} alt={`Preview of ${products29.title}`} />
+                    <div key={allProducts.id} className={styles.card}>
+                      <img src={allProducts.image} alt={`Preview of ${allProducts.title}`} />
                       <h3 id="product-title">
-                        <a href={`/${products29.title}`}>{ products29.title }</a>
+                        <a href={`/${allProducts.title}`}>{ allProducts.title }</a>
                       </h3>
-                      <p id="product-description">{ products29.description }</p>
-                      <p id="product-price">${ products29.price }</p>
+                      <p id="product-description">{ allProducts.description }</p>
+                      <p id="product-price">${ allProducts.price }</p>
                       <p>
                         <button id="test_id" className="snipcart-add-item"
-                          data-item-id={products29.id}
-                          data-item-image={products29.image}
-                          data-item-name={products29.title}
+                          data-item-id={allProducts.id}
+                          data-item-image={allProducts.image}
+                          data-item-name={allProducts.title}
                           data-item-url="/"
-                          data-item-price={products29.price}
+                          data-item-price={allProducts.price}
                         >
                           Add to Cart
                         </button>
