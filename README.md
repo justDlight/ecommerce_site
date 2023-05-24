@@ -36,3 +36,19 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Authors Notes
+
+Please note this website is not made to purchase goods. Transactions will be denied and not go through. This website is my first Next.js project and is made for educational purpose's. All products have been webscraped from the website PC Case Gear. 
+
+If you would like to purchase an item you can visit there website at: 
+https://www.pccasegear.com/
+
+All product pages have been created through dynamic weblinks.
+Products are displayed through a map.
+Each product in the map is looped through and displayed.
+Each product in the map is taken from a json file.
+
+## Side Note
+
+Having learned how to make dynamic webpages I would recommend making dynamic catagorie links as well in the future.

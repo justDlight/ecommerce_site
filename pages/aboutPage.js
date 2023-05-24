@@ -94,7 +94,7 @@ export default function Home() {
 
             <div className="col" id="about-container">
                 <h2 id="about-title">About</h2>
-                <h4 id="about-description">This website is for educational purposes only. It does not allow transactions to go through. It has been created through Next.js. All products have been webscraped from PC Case Gear. Link to PC Case Gear website: <a href="https://www.pccasegear.com/">https://www.pccasegear.com</a></h4>
+                <h4 id="about-description">This website is for educational purposes only. It does not allow transactions to go through. It has been created through Next.js and is my first Next.js project. All products have been webscraped from PC Case Gear. All products have a dynamic webpage link associated with them.<br/><br/>Link to PC Case Gear website:<br/><br/><a href="https://www.pccasegear.com/">https://www.pccasegear.com</a><br/><br/>For more information about this website visit my Github Repo at:<br/><br/><a href="https://github.com/justDlight/ecommerce_site">https://github.com/justDlight/ecommerce_site</a></h4>
             </div>
 
 
