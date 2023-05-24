@@ -65,14 +65,14 @@ export default function Home() {
                 <h4 id="categories-title">Categories</h4><br/><p>Double click to expand!</p>
                 {catagories.map(category => (
                   <div key={category.title}>
-                    <h3 onClick={cataHideTillClicked}>{category.title}</h3>
+                    <h3 id="cata-title" onClick={cataHideTillClicked}>{category.title}</h3>
                     <ul className="sub-cata-list">
                       {Object.keys(category['sub-cata']).map(subcat => {
                         // Check if the key contains "-url"
                         if (!subcat.includes('-url')) {
                           return (
                             <li key={subcat} className="sub-cata-item">
-                              <a href={category['sub-cata'][subcat + '-url']} target="_blank">
+                              <a href={category['sub-cata'][subcat + '-url']} target="_blank" id="cata-link">
                                 {category['sub-cata'][subcat]}
                               </a>
                             </li>
@@ -94,7 +94,7 @@ export default function Home() {
 
             <div className="col" id="about-container">
                 <h2 id="about-title">About</h2>
-                <h4 id="about-description">This website is for educational purposes only. It does not allow transactions to go through. It has been created through Next.js and is my first Next.js project. All products have been webscraped from PC Case Gear. All products have a dynamic webpage link associated with them.<br/><br/>Link to PC Case Gear website:<br/><br/><a href="https://www.pccasegear.com/">https://www.pccasegear.com</a><br/><br/>For more information about this website visit my Github Repo at:<br/><br/><a href="https://github.com/justDlight/ecommerce_site">https://github.com/justDlight/ecommerce_site</a></h4>
+                <h4 id="about-description">This website is for educational purposes only. It does not allow transactions to go through. It has been created through Next.js and is my first Next.js project. All products have been webscraped from PC Case Gear. All products have a dynamic webpage link associated with them.<br/><br/>Link to PC Case Gear website:<br/><br/><a href="https://www.pccasegear.com/">https://www.pccasegear.com</a><br/><br/>For more information about this website visit my Github Repo at:<br/><br/><a href="https://github.com/justDlight/ecommerce_site">https://github.com/justDlight/ecommerce_site</a><br/><br/>This is a desktop only website. Mobile phones are not supported. I made this project to learn Next.js and React was not focused on styling. All other projects I have made are mobile friendly and this might be to in the future.<br/><br/>This has been my first Next.js project<br/><br/>For more of my websites visit my portfolio at:<br/><br/><a href="https://johnweiss1996.com/">https://johnweiss1996.com/</a></h4>
             </div>
 
 

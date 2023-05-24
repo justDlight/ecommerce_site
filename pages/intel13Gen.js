@@ -66,14 +66,14 @@ export default function Home() {
                 <h4 id="categories-title">Categories</h4><br/><p>Double click to expand!</p>
                 {catagories.map(category => (
                   <div key={category.title}>
-                    <h3 onClick={cataHideTillClicked}>{category.title}</h3>
+                    <h3 id="cata-title" onClick={cataHideTillClicked}>{category.title}</h3>
                     <ul className="sub-cata-list">
                       {Object.keys(category['sub-cata']).map(subcat => {
                         // Check if the key contains "-url"
                         if (!subcat.includes('-url')) {
                           return (
                             <li key={subcat} className="sub-cata-item">
-                              <a href={category['sub-cata'][subcat + '-url']} target="_blank">
+                              <a href={category['sub-cata'][subcat + '-url']} target="_blank" id="cata-link">
                                 {category['sub-cata'][subcat]}
                               </a>
                             </li>

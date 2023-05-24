@@ -364,4 +364,15 @@ input {
   text-align: center;
   margin-right: 30%;
   height: 100vh; /* Adjust as needed */
+  margin-top: 7%;
+}
+
+#cata-title {
+  font-family: 'Comic Sans MS, MV Boli';
+  cursor: pointer;
+}
+
+#cata-link {
+  font-family: 'Comic Sans MS';
+  cursor: pointer;
 }
